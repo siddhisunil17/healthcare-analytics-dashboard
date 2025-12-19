@@ -3,25 +3,23 @@ import mysql.connector
 import pandas as pd
 import plotly.express as px
 
-# --- 1. DATABASE CONNECTION (Cloud & Local Compatible) ---
 # --- 1. DATABASE CONNECTION ---
 def get_db_connection():
-    # Basic configuration from secrets
     config = {
         "user": st.secrets["mysql"]["user"],
         "password": st.secrets["mysql"]["password"],
         "host": st.secrets["mysql"]["host"],
-        "port": int(st.secrets["mysql"]["port"]),  # Ensure this is an integer
-        "database": st.secrets["mysql"]["database"]
+        "port": int(st.secrets["mysql"]["port"]),
+        "database": st.secrets["mysql"]["database"],
+        "raise_on_warnings": True,
+        "use_pure": True  # <--- CRITICAL FIX: Force Pure Python mode
     }
 
-    # Check if we are running on Streamlit Cloud (Linux)
-    # The file '/etc/ssl/certs/ca-certificates.crt' only exists on Linux (Cloud)
+    # SSL Logic for Streamlit Cloud
     import os
     if os.path.exists("/etc/ssl/certs/ca-certificates.crt"):
         config["ssl_ca"] = "/etc/ssl/certs/ca-certificates.crt"
-        config["ssl_verify_cert"] = True
-
+    
     # Connect
     return mysql.connector.connect(**config)
     
@@ -152,3 +150,4 @@ else:
     c2.metric("Clinical Documents", note_count)
 
     conn.close()
+
