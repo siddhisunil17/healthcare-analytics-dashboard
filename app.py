@@ -4,30 +4,27 @@ import pandas as pd
 import plotly.express as px
 
 # --- 1. DATABASE CONNECTION (Cloud & Local Compatible) ---
+# --- 1. DATABASE CONNECTION ---
 def get_db_connection():
-    try:
-        # Configuration for Streamlit Cloud (Linux)
-        return mysql.connector.connect(
-            host=st.secrets["mysql"]["host"],
-            user=st.secrets["mysql"]["user"],
-            password=st.secrets["mysql"]["password"],
-            port=int(st.secrets["mysql"]["port"]),  # Force Integer
-            database=st.secrets["mysql"]["database"],
-            # TiDB requires SSL; this path works on Streamlit Cloud (Debian/Linux)
-            ssl_ca="/etc/ssl/certs/ca-certificates.crt",
-            ssl_disabled=False
-        )
-    except:
-        # Fallback for Local Testing (Windows)
-        # Windows doesn't have the same certificate path, so we skip ssl_ca locally
-        return mysql.connector.connect(
-            host=st.secrets["mysql"]["host"],
-            user=st.secrets["mysql"]["user"],
-            password=st.secrets["mysql"]["password"],
-            port=int(st.secrets["mysql"]["port"]),
-            database=st.secrets["mysql"]["database"]
-        )
+    # Basic configuration from secrets
+    config = {
+        "user": st.secrets["mysql"]["user"],
+        "password": st.secrets["mysql"]["password"],
+        "host": st.secrets["mysql"]["host"],
+        "port": int(st.secrets["mysql"]["port"]),  # Ensure this is an integer
+        "database": st.secrets["mysql"]["database"]
+    }
 
+    # Check if we are running on Streamlit Cloud (Linux)
+    # The file '/etc/ssl/certs/ca-certificates.crt' only exists on Linux (Cloud)
+    import os
+    if os.path.exists("/etc/ssl/certs/ca-certificates.crt"):
+        config["ssl_ca"] = "/etc/ssl/certs/ca-certificates.crt"
+        config["ssl_verify_cert"] = True
+
+    # Connect
+    return mysql.connector.connect(**config)
+    
 # --- 2. PAGE CONFIGURATION ---
 st.set_page_config(page_title="Patient 360 View", layout="wide", page_icon="🏥")
 st.title("🏥 Hospital Analytics: Patient 360")
@@ -153,4 +150,5 @@ else:
     
     c1.metric("Patients Registered", pat_count)
     c2.metric("Clinical Documents", note_count)
+
     conn.close()
