@@ -1,0 +1,2960 @@
+gender,age,encounter_type,length_of_stay_days
+male,52.0,Admission to surgical transplant department (procedure),12
+male,25.0,Emergency room admission (procedure),3
+male,56.0,Emergency room admission (procedure),6
+male,37.0,Emergency room admission (procedure),4
+female,57.0,Emergency room admission (procedure),6
+male,75.0,Admission to hospice (procedure),6
+male,67.0,Admission to ward (procedure),9
+female,35.0,Admission to surgical department (procedure),10
+female,56.0,Hospital admission (procedure),5
+female,57.0,Emergency hospital admission for asthma (procedure),6
+female,26.0,Emergency hospital admission (procedure),2
+male,63.0,Hospital admission (procedure),10
+female,86.0,Emergency room admission (procedure),7
+male,105.0,Hospital admission (procedure),13
+female,45.0,Emergency hospital admission (procedure),3
+male,74.0,Emergency room admission (procedure),6
+female,54.0,Emergency room admission (procedure),6
+male,66.0,Emergency room admission (procedure),5
+female,27.0,Emergency room admission (procedure),4
+female,20.0,Obstetric emergency hospital admission (procedure),4
+male,42.0,Admission to hospice (procedure),10
+male,88.0,Emergency department patient visit (procedure),6
+female,31.0,Emergency room admission (procedure),3
+male,64.0,Emergency room admission (procedure),6
+female,58.0,Emergency room admission (procedure),4
+male,59.0,Admission to ward (procedure),10
+female,16.0,Obstetric emergency hospital admission (procedure),2
+male,44.0,Emergency room admission (procedure),4
+male,70.0,Emergency room admission (procedure),6
+male,48.0,Emergency room admission (procedure),3
+male,24.0,Emergency room admission (procedure),4
+female,82.0,Admission to intensive care unit (procedure),20
+male,53.0,Emergency room admission (procedure),5
+male,43.0,Hospital admission (procedure),9
+male,39.0,Emergency room admission (procedure),5
+female,84.0,Emergency room admission (procedure),5
+female,87.0,Emergency room admission (procedure),6
+male,2.0,Emergency room admission (procedure),1
+female,26.0,Obstetric emergency hospital admission (procedure),4
+male,57.0,Emergency room admission (procedure),4
+female,85.0,Emergency room admission (procedure),6
+female,26.0,Obstetric emergency hospital admission (procedure),2
+female,5.0,Emergency room admission (procedure),3
+male,19.0,Emergency room admission (procedure),4
+female,41.0,Emergency room admission (procedure),4
+female,57.0,Emergency room admission (procedure),4
+female,30.0,Obstetric emergency hospital admission (procedure),4
+male,47.0,Admission to intensive care unit (procedure),10
+female,56.0,Patient transfer to intensive care unit (procedure),15
+male,45.0,Emergency hospital admission (procedure),4
+male,21.0,Emergency room admission (procedure),3
+female,36.0,Obstetric emergency hospital admission (procedure),3
+male,66.0,Emergency room admission (procedure),4
+male,16.0,Emergency room admission (procedure),3
+male,59.0,Emergency room admission (procedure),4
+male,46.0,Emergency room admission (procedure),3
+female,13.0,Emergency room admission (procedure),2
+female,18.0,Emergency room admission (procedure),2
+male,49.0,Emergency hospital admission for asthma (procedure),3
+female,25.0,Obstetric emergency hospital admission (procedure),4
+male,57.0,Emergency room admission (procedure),4
+female,61.0,Emergency room admission (procedure),6
+male,53.0,Hospital admission (procedure),7
+male,16.0,Emergency hospital admission (procedure),2
+male,61.0,Emergency room admission (procedure),4
+male,15.0,Emergency hospital admission (procedure),3
+female,66.0,Emergency room admission (procedure),4
+female,29.0,Obstetric emergency hospital admission (procedure),4
+female,89.0,Emergency department patient visit (procedure),6
+female,34.0,Non-urgent orthopedic admission (procedure),11
+male,13.0,Emergency room admission (procedure),2
+female,28.0,Obstetric emergency hospital admission (procedure),3
+female,60.0,Emergency room admission (procedure),6
+female,14.0,Emergency room admission (procedure),4
+male,45.0,Emergency room admission (procedure),4
+male,49.0,Emergency room admission (procedure),4
+female,44.0,Emergency room admission (procedure),5
+female,25.0,Obstetric emergency hospital admission (procedure),2
+female,51.0,Emergency room admission (procedure),4
+male,68.0,Emergency room admission (procedure),6
+female,53.0,Hospital admission (procedure),12
+female,71.0,Emergency room admission (procedure),5
+female,32.0,Obstetric emergency hospital admission (procedure),3
+male,90.0,Hospital admission (procedure),10
+female,72.0,Hospital admission (procedure),9
+male,25.0,Emergency room admission (procedure),4
+female,1.0,Emergency room admission (procedure),2
+male,67.0,Hospital admission (procedure),8
+female,72.0,Emergency room admission (procedure),7
+male,74.0,Emergency room admission (procedure),5
+female,74.0,Emergency room admission (procedure),6
+female,8.0,Emergency room admission (procedure),2
+male,14.0,Emergency room admission (procedure),3
+male,61.0,Emergency room admission (procedure),5
+male,78.0,Admission to ward (procedure),11
+female,27.0,Obstetric emergency hospital admission (procedure),4
+female,30.0,Hospital admission (procedure),4
+male,76.0,Emergency room admission (procedure),5
+female,66.0,Hospital admission (procedure),7
+female,69.0,Emergency hospital admission (procedure),6
+female,88.0,Emergency room admission (procedure),7
+male,4.0,Emergency room admission (procedure),3
+female,10.0,Emergency room admission (procedure),4
+male,80.0,Emergency room admission (procedure),5
+male,67.0,Admission to ward (procedure),6
+female,12.0,Emergency room admission (procedure),3
+male,29.0,Emergency room admission (procedure),4
+male,57.0,Hospital admission (procedure),6
+male,57.0,Hospital admission (procedure),11
+female,30.0,Obstetric emergency hospital admission (procedure),2
+female,85.0,Emergency room admission (procedure),6
+male,61.0,Emergency room admission (procedure),5
+female,37.0,Emergency room admission (procedure),4
+female,23.0,Obstetric emergency hospital admission (procedure),4
+female,48.0,Emergency room admission (procedure),5
+male,73.0,Emergency room admission (procedure),6
+male,65.0,Emergency room admission (procedure),4
+female,35.0,Admission to surgical department (procedure),7
+female,59.0,Hospital admission (procedure),11
+female,53.0,Emergency room admission (procedure),5
+female,11.0,Emergency room admission (procedure),4
+female,25.0,Admission to surgical department (procedure),9
+male,62.0,Emergency room admission (procedure),6
+female,72.0,Emergency room admission (procedure),7
+female,25.0,Admission to surgical department (procedure),9
+male,67.0,Emergency room admission (procedure),5
+male,59.0,Emergency room admission (procedure),5
+male,64.0,Emergency room admission (procedure),6
+male,58.0,Hospital admission for isolation (procedure),6
+female,30.0,Admission to surgical department (procedure),8
+male,65.0,Admission to hospice (procedure),9
+female,26.0,Obstetric emergency hospital admission (procedure),3
+female,44.0,Obstetric emergency hospital admission (procedure),4
+female,56.0,Emergency room admission (procedure),5
+male,81.0,Emergency room admission (procedure),7
+male,30.0,Emergency room admission (procedure),4
+female,9.0,Emergency hospital admission for asthma (procedure),3
+female,1.0,Emergency room admission (procedure),3
+male,37.0,Emergency room admission (procedure),4
+male,33.0,Emergency room admission (procedure),4
+male,47.0,Emergency hospital admission (procedure),4
+male,84.0,Hospital admission (procedure),10
+male,4.0,Emergency room admission (procedure),1
+female,78.0,Patient transfer to intensive care unit (procedure),9
+female,35.0,Admission to surgical department (procedure),9
+male,86.0,Emergency room admission (procedure),5
+female,13.0,Emergency hospital admission for asthma (procedure),4
+female,71.0,Emergency room admission (procedure),6
+male,14.0,Emergency room admission (procedure),2
+female,83.0,Emergency room admission (procedure),7
+male,94.0,Emergency room admission (procedure),6
+female,45.0,Emergency room admission (procedure),4
+female,48.0,Obstetric emergency hospital admission (procedure),4
+male,101.0,Emergency room admission (procedure),6
+male,37.0,Emergency room admission (procedure),4
+male,17.0,Emergency room admission (procedure),3
+female,55.0,Emergency room admission (procedure),6
+male,75.0,Admission to hospice (procedure),7
+female,59.0,Admission to hospice (procedure),6
+male,73.0,Emergency room admission (procedure),6
+female,25.0,Admission to surgical department (procedure),3
+male,23.0,Emergency room admission (procedure),3
+male,46.0,Emergency hospital admission (procedure),5
+male,54.0,Emergency room admission (procedure),5
+female,30.0,Obstetric emergency hospital admission (procedure),4
+male,53.0,"Hospital admission, for observation (procedure)",12
+male,67.0,Emergency room admission (procedure),4
+female,62.0,Emergency room admission (procedure),6
+male,45.0,Emergency room admission (procedure),4
+male,5.0,Emergency room admission (procedure),3
+female,17.0,Emergency room admission (procedure),3
+female,78.0,Emergency room admission (procedure),5
+male,6.0,Hospital admission (procedure),9
+female,26.0,Obstetric emergency hospital admission (procedure),2
+male,57.0,Emergency room admission (procedure),6
+male,39.0,Emergency room admission (procedure),5
+female,35.0,Admission to surgical department (procedure),8
+male,100.0,Emergency room admission (procedure),8
+female,25.0,Admission to surgical department (procedure),3
+male,76.0,Patient transfer to intensive care unit (procedure),20
+male,64.0,Emergency room admission (procedure),4
+female,85.0,Emergency room admission (procedure),7
+female,29.0,Obstetric emergency hospital admission (procedure),2
+female,54.0,Emergency room admission (procedure),4
+male,47.0,Admission to hospice (procedure),7
+female,84.0,Emergency room admission (procedure),6
+female,76.0,Emergency room admission (procedure),7
+male,77.0,Emergency room admission (procedure),5
+female,38.0,Emergency room admission (procedure),5
+female,55.0,Hospital admission (procedure),5
+female,35.0,Admission to surgical department (procedure),7
+male,28.0,Emergency hospital admission for asthma (procedure),4
+female,61.0,Emergency room admission (procedure),4
+female,24.0,Hospital admission (procedure),3
+male,74.0,Admission to hospice (procedure),6
+male,79.0,Emergency room admission (procedure),5
+female,84.0,Emergency room admission (procedure),7
+male,67.0,Emergency room admission (procedure),6
+male,22.0,Emergency room admission (procedure),2
+male,42.0,Emergency room admission (procedure),5
+male,81.0,Emergency room admission (procedure),6
+male,73.0,Emergency room admission (procedure),7
+male,101.0,Emergency room admission (procedure),8
+female,69.0,Hospital admission (procedure),5
+female,28.0,Emergency room admission (procedure),4
+male,78.0,Emergency room admission (procedure),7
+male,62.0,Emergency room admission (procedure),6
+male,40.0,Emergency room admission (procedure),4
+male,54.0,Emergency room admission (procedure),6
+female,37.0,Emergency hospital admission for asthma (procedure),4
+female,71.0,Emergency room admission (procedure),5
+female,35.0,Admission to surgical department (procedure),8
+male,65.0,Admission to hospice (procedure),10
+female,15.0,Emergency room admission (procedure),2
+male,45.0,Admission to intensive care unit (procedure),21
+female,28.0,Emergency room admission (procedure),4
+female,26.0,Obstetric emergency hospital admission (procedure),3
+female,85.0,Emergency room admission (procedure),7
+male,73.0,Emergency room admission (procedure),6
+female,65.0,Admission to hospice (procedure),10
+male,62.0,Admission to ward (procedure),8
+male,68.0,Emergency room admission (procedure),4
+male,52.0,Emergency room admission (procedure),4
+female,35.0,Emergency room admission (procedure),5
+male,65.0,Admission to hospice (procedure),5
+female,81.0,Emergency department patient visit (procedure),5
+male,52.0,Admission to hospice (procedure),9
+female,76.0,Hospital admission (procedure),9
+female,68.0,Admission to ward (procedure),12
+male,18.0,Emergency room admission (procedure),3
+female,0.0,Emergency room admission (procedure),1
+male,64.0,Emergency room admission (procedure),4
+male,52.0,Hospital admission (procedure),12
+male,55.0,Emergency room admission (procedure),6
+female,86.0,Emergency room admission (procedure),6
+female,69.0,Emergency room admission (procedure),6
+male,65.0,Emergency room admission (procedure),6
+female,62.0,Emergency room admission (procedure),6
+female,75.0,Admission to hospice (procedure),8
+male,36.0,Emergency room admission (procedure),4
+male,64.0,Emergency room admission (procedure),4
+male,3.0,Emergency hospital admission for asthma (procedure),2
+female,57.0,Emergency room admission (procedure),4
+male,57.0,Emergency room admission (procedure),4
+male,42.0,Emergency room admission (procedure),3
+male,58.0,Emergency room admission (procedure),6
+female,29.0,Emergency hospital admission for asthma (procedure),4
+female,54.0,Emergency room admission (procedure),5
+female,16.0,Obstetric emergency hospital admission (procedure),2
+male,51.0,Emergency room admission (procedure),6
+female,75.0,Emergency room admission (procedure),5
+female,79.0,Emergency hospital admission (procedure),5
+male,63.0,Emergency room admission (procedure),5
+male,67.0,Emergency room admission (procedure),4
+female,75.0,Emergency room admission (procedure),7
+male,31.0,Emergency room admission (procedure),4
+male,14.0,Emergency hospital admission (procedure),3
+female,87.0,Emergency room admission (procedure),6
+male,101.0,Emergency room admission (procedure),7
+male,76.0,Emergency room admission (procedure),7
+female,27.0,Emergency room admission (procedure),4
+female,12.0,Emergency room admission (procedure),4
+male,38.0,Hospital admission (procedure),6
+male,74.0,Emergency room admission (procedure),5
+male,65.0,Admission to hospice (procedure),9
+female,98.0,Hospital admission (procedure),11
+female,76.0,Emergency room admission (procedure),7
+male,66.0,Emergency hospital admission for asthma (procedure),5
+male,68.0,Emergency room admission (procedure),4
+male,24.0,Emergency room admission (procedure),2
+female,55.0,Emergency room admission (procedure),4
+female,10.0,Emergency room admission (procedure),4
+male,49.0,Hospital admission (procedure),4
+male,50.0,Patient transfer to intensive care unit (procedure),16
+female,15.0,Emergency room admission (procedure),3
+male,100.0,Admission to ward (procedure),13
+male,27.0,Emergency room admission (procedure),3
+female,75.0,Emergency room admission (procedure),6
+female,78.0,Emergency room admission (procedure),7
+female,63.0,Emergency room admission (procedure),6
+female,62.0,Emergency room admission (procedure),5
+female,64.0,Admission to clinical oncology department (procedure),12
+male,14.0,Emergency room admission (procedure),4
+female,22.0,Obstetric emergency hospital admission (procedure),4
+male,52.0,Emergency room admission (procedure),6
+male,52.0,Admission to intensive care unit (procedure),11
+female,77.0,Emergency department patient visit (procedure),6
+female,46.0,Admission to intensive care unit (procedure),10
+female,61.0,Emergency room admission (procedure),6
+female,44.0,Hospital admission (procedure),10
+male,36.0,Emergency room admission (procedure),3
+male,69.0,Emergency room admission (procedure),5
+female,60.0,Hospital admission (procedure),10
+male,50.0,Hospital admission (procedure),6
+male,14.0,Emergency room admission (procedure),3
+female,25.0,Admission to surgical department (procedure),4
+female,48.0,Emergency hospital admission (procedure),4
+male,75.0,Admission to hospice (procedure),13
+female,75.0,Hospital admission (procedure),7
+female,76.0,Emergency room admission (procedure),7
+male,77.0,Emergency room admission (procedure),5
+female,35.0,Admission to surgical department (procedure),7
+male,49.0,Admission to hospice (procedure),7
+female,71.0,Emergency room admission (procedure),5
+female,25.0,Admission to surgical department (procedure),4
+female,86.0,Emergency room admission (procedure),5
+female,35.0,Admission to surgical department (procedure),9
+female,4.0,Emergency hospital admission for asthma (procedure),3
+female,50.0,Emergency room admission (procedure),4
+female,19.0,Emergency room admission (procedure),3
+male,0.0,Emergency room admission (procedure),3
+male,14.0,Emergency room admission (procedure),4
+female,92.0,Admission to surgical transplant department (procedure),14
+female,47.0,Emergency room admission (procedure),5
+female,36.0,Emergency room admission (procedure),5
+female,86.0,Emergency room admission (procedure),6
+female,62.0,Emergency room admission (procedure),5
+male,1.0,Emergency room admission (procedure),3
+male,43.0,Emergency room admission (procedure),4
+male,64.0,Emergency room admission (procedure),6
+female,66.0,Hospital admission (procedure),8
+male,76.0,Emergency room admission (procedure),5
+male,14.0,Emergency room admission (procedure),4
+male,61.0,Emergency room admission (procedure),5
+male,42.0,Emergency room admission (procedure),3
+male,45.0,Emergency room admission (procedure),3
+female,64.0,Emergency room admission (procedure),5
+female,14.0,Emergency hospital admission (procedure),3
+male,52.0,Emergency room admission (procedure),5
+male,76.0,Emergency room admission (procedure),5
+female,46.0,Obstetric emergency hospital admission (procedure),4
+male,49.0,Emergency room admission (procedure),3
+male,76.0,Admission to ward (procedure),9
+male,33.0,Emergency room admission (procedure),4
+female,16.0,Emergency room admission (procedure),2
+male,10.0,Non-urgent orthopedic admission (procedure),10
+male,65.0,Emergency room admission (procedure),5
+female,26.0,Emergency room admission (procedure),4
+female,30.0,Obstetric emergency hospital admission (procedure),4
+female,30.0,Obstetric emergency hospital admission (procedure),4
+female,3.0,Emergency room admission (procedure),2
+male,25.0,Emergency room admission (procedure),2
+male,12.0,Emergency room admission (procedure),3
+female,27.0,Obstetric emergency hospital admission (procedure),2
+male,65.0,Admission to intensive care unit (procedure),16
+female,28.0,Obstetric emergency hospital admission (procedure),3
+female,39.0,Obstetric emergency hospital admission (procedure),4
+female,30.0,Obstetric emergency hospital admission (procedure),2
+female,77.0,Emergency room admission (procedure),7
+female,33.0,Obstetric emergency hospital admission (procedure),4
+male,67.0,Emergency room admission (procedure),5
+female,17.0,Obstetric emergency hospital admission (procedure),4
+female,31.0,Emergency room admission (procedure),5
+male,42.0,Admission to thoracic surgery department (procedure),9
+female,29.0,Obstetric emergency hospital admission (procedure),2
+male,37.0,Emergency room admission (procedure),3
+female,57.0,Admission to hospice (procedure),7
+male,42.0,Hospital admission (procedure),7
+female,27.0,Obstetric emergency hospital admission (procedure),2
+female,45.0,Emergency room admission (procedure),5
+male,2.0,Admission to hospice (procedure),4
+female,55.0,Emergency room admission (procedure),5
+female,66.0,Emergency room admission (procedure),6
+female,59.0,Emergency room admission (procedure),4
+male,59.0,Emergency room admission (procedure),6
+female,26.0,Obstetric emergency hospital admission (procedure),4
+female,59.0,Admission to hospice (procedure),7
+male,81.0,Emergency room admission (procedure),7
+female,29.0,Obstetric emergency hospital admission (procedure),4
+male,17.0,Emergency room admission (procedure),3
+male,45.0,Emergency room admission (procedure),4
+female,27.0,Obstetric emergency hospital admission (procedure),2
+male,78.0,Emergency room admission (procedure),7
+female,27.0,Obstetric emergency hospital admission (procedure),4
+female,20.0,Emergency room admission (procedure),3
+female,40.0,Emergency room admission (procedure),3
+female,85.0,Emergency room admission (procedure),7
+male,50.0,Emergency room admission (procedure),4
+male,24.0,Emergency room admission (procedure),4
+male,59.0,Emergency room admission (procedure),6
+male,67.0,Emergency room admission (procedure),5
+female,31.0,Obstetric emergency hospital admission (procedure),5
+male,63.0,Emergency room admission (procedure),6
+male,18.0,Emergency room admission (procedure),2
+female,75.0,Hospital admission (procedure),8
+male,57.0,Admission to surgical transplant department (procedure),6
+male,78.0,Emergency room admission (procedure),5
+female,81.0,Emergency room admission (procedure),6
+female,6.0,Emergency room admission (procedure),3
+male,50.0,Hospital admission (procedure),12
+female,13.0,Emergency room admission (procedure),3
+female,72.0,Emergency room admission (procedure),7
+female,66.0,Emergency room admission (procedure),5
+male,0.0,Emergency room admission (procedure),1
+female,80.0,Emergency department patient visit (procedure),6
+female,86.0,Emergency room admission (procedure),7
+female,19.0,Obstetric emergency hospital admission (procedure),3
+female,0.0,Emergency room admission (procedure),3
+female,2.0,Emergency room admission (procedure),2
+female,43.0,Obstetric emergency hospital admission (procedure),4
+female,22.0,Emergency room admission (procedure),2
+female,25.0,Admission to surgical department (procedure),9
+female,5.0,Emergency room admission (procedure),3
+male,67.0,Emergency room admission (procedure),4
+male,75.0,Emergency room admission (procedure),6
+female,70.0,Patient transfer to intensive care unit (procedure),20
+female,19.0,Emergency room admission (procedure),4
+female,64.0,Hospital admission (procedure),12
+male,52.0,Admission to intensive care unit (procedure),21
+male,81.0,Emergency room admission (procedure),6
+female,5.0,Emergency room admission (procedure),2
+female,73.0,Hospital admission (procedure),13
+female,70.0,Hospital admission (procedure),10
+male,63.0,Emergency room admission (procedure),4
+male,47.0,Emergency hospital admission for asthma (procedure),3
+male,67.0,Emergency room admission (procedure),5
+male,56.0,Emergency room admission (procedure),4
+male,59.0,Emergency room admission (procedure),4
+female,30.0,Obstetric emergency hospital admission (procedure),4
+male,45.0,Emergency room admission (procedure),5
+female,15.0,Emergency room admission (procedure),2
+female,61.0,Emergency room admission (procedure),5
+female,46.0,Obstetric emergency hospital admission (procedure),4
+female,35.0,Admission to surgical department (procedure),8
+female,17.0,Hospital admission (procedure),4
+female,24.0,Obstetric emergency hospital admission (procedure),4
+female,74.0,Emergency room admission (procedure),5
+female,35.0,Admission to surgical department (procedure),7
+male,65.0,Emergency room admission (procedure),5
+male,55.0,Emergency room admission (procedure),6
+female,35.0,Admission to surgical department (procedure),8
+male,42.0,Emergency room admission (procedure),4
+male,75.0,Admission to hospice (procedure),8
+male,74.0,Emergency room admission (procedure),6
+female,88.0,Emergency room admission (procedure),5
+female,32.0,Obstetric emergency hospital admission (procedure),3
+male,71.0,Emergency room admission (procedure),7
+female,45.0,Hospital admission (procedure),8
+male,33.0,Emergency hospital admission (procedure),5
+female,13.0,Emergency room admission (procedure),2
+male,63.0,Emergency room admission (procedure),4
+female,51.0,Admission to hospice (procedure),7
+male,11.0,Emergency room admission (procedure),2
+female,28.0,Emergency room admission (procedure),4
+female,27.0,Obstetric emergency hospital admission (procedure),3
+female,33.0,Obstetric emergency hospital admission (procedure),4
+female,64.0,Emergency room admission (procedure),6
+male,0.0,Emergency room admission (procedure),2
+female,58.0,Emergency room admission (procedure),5
+female,28.0,Obstetric emergency hospital admission (procedure),4
+male,84.0,Emergency room admission (procedure),7
+female,12.0,Emergency room admission (procedure),2
+female,34.0,Obstetric emergency hospital admission (procedure),3
+female,45.0,Emergency room admission (procedure),4
+female,61.0,Emergency room admission (procedure),6
+male,30.0,Emergency room admission (procedure),4
+male,28.0,Emergency room admission (procedure),3
+female,27.0,Obstetric emergency hospital admission (procedure),2
+male,34.0,Emergency room admission (procedure),4
+female,14.0,Emergency room admission (procedure),2
+male,65.0,Patient transfer to intensive care unit (procedure),11
+male,44.0,Emergency hospital admission (procedure),5
+female,19.0,Emergency room admission (procedure),2
+female,2.0,Emergency room admission (procedure),3
+male,41.0,Emergency room admission (procedure),5
+male,68.0,Emergency room admission (procedure),4
+male,9.0,Emergency room admission (procedure),1
+female,59.0,Emergency room admission (procedure),6
+female,21.0,Obstetric emergency hospital admission (procedure),2
+female,37.0,Emergency room admission (procedure),5
+female,87.0,Admission to surgical transplant department (procedure),12
+male,81.0,Emergency room admission (procedure),6
+male,11.0,Emergency room admission (procedure),4
+female,50.0,Emergency room admission (procedure),4
+male,33.0,Emergency room admission (procedure),4
+female,25.0,Admission to surgical department (procedure),5
+female,4.0,Emergency room admission (procedure),2
+male,45.0,Emergency room admission (procedure),5
+male,5.0,Emergency room admission (procedure),2
+male,65.0,Emergency room admission (procedure),6
+male,85.0,Admission to hospice (procedure),8
+female,85.0,Emergency room admission (procedure),5
+female,26.0,Emergency room admission (procedure),2
+female,34.0,Hospital admission (procedure),9
+male,77.0,Patient transfer to intensive care unit (procedure),13
+male,51.0,Hospital admission (procedure),8
+female,30.0,Obstetric emergency hospital admission (procedure),4
+male,65.0,Admission to hospice (procedure),8
+male,81.0,Admission to surgical transplant department (procedure),12
+male,59.0,Patient transfer to intensive care unit (procedure),15
+male,4.0,Hospital admission (procedure),2
+female,66.0,Admission to ward (procedure),12
+male,56.0,Emergency room admission (procedure),4
+female,66.0,Emergency room admission (procedure),4
+female,65.0,Emergency room admission (procedure),4
+male,42.0,Emergency room admission (procedure),4
+male,1.0,Admission to hospice (procedure),5
+male,103.0,Emergency room admission (procedure),8
+female,68.0,Hospital admission (procedure),8
+female,34.0,Obstetric emergency hospital admission (procedure),3
+male,75.0,Emergency room admission (procedure),5
+female,6.0,Hospital admission (procedure),3
+female,21.0,Emergency hospital admission for asthma (procedure),2
+male,19.0,Emergency room admission (procedure),3
+male,65.0,Patient transfer to intensive care unit (procedure),16
+female,7.0,Emergency room admission (procedure),3
+female,57.0,Emergency room admission (procedure),6
+female,33.0,Obstetric emergency hospital admission (procedure),3
+male,45.0,Emergency hospital admission (procedure),4
+female,33.0,Emergency hospital admission for asthma (procedure),3
+male,38.0,Emergency room admission (procedure),3
+male,51.0,Admission to ward (procedure),5
+female,86.0,Emergency room admission (procedure),6
+male,32.0,Emergency room admission (procedure),4
+female,39.0,Obstetric emergency hospital admission (procedure),5
+female,51.0,Obstetric emergency hospital admission (procedure),4
+female,34.0,Obstetric emergency hospital admission (procedure),3
+male,64.0,Emergency room admission (procedure),4
+female,41.0,Emergency room admission (procedure),3
+female,21.0,Obstetric emergency hospital admission (procedure),2
+female,71.0,Hospital admission (procedure),11
+male,52.0,Hospital admission (procedure),5
+female,28.0,Emergency room admission (procedure),3
+male,21.0,Emergency hospital admission (procedure),3
+male,2.0,Emergency room admission (procedure),1
+female,31.0,Emergency room admission (procedure),4
+female,58.0,Emergency room admission (procedure),4
+female,64.0,Hospital admission (procedure),9
+male,60.0,Hospital admission (procedure),5
+male,38.0,Emergency hospital admission (procedure),3
+female,64.0,Emergency room admission (procedure),5
+female,32.0,Obstetric emergency hospital admission (procedure),4
+female,76.0,Emergency room admission (procedure),6
+female,30.0,Emergency hospital admission for asthma (procedure),4
+female,23.0,Obstetric emergency hospital admission (procedure),2
+female,64.0,Emergency room admission (procedure),5
+male,39.0,Emergency room admission (procedure),4
+male,66.0,Emergency room admission (procedure),4
+female,84.0,Emergency room admission (procedure),5
+female,51.0,Emergency room admission (procedure),4
+female,51.0,Obstetric emergency hospital admission (procedure),5
+female,65.0,Admission to hospice (procedure),10
+male,39.0,Emergency room admission (procedure),3
+female,65.0,Admission to surgical transplant department (procedure),6
+male,85.0,Admission to hospice (procedure),11
+female,44.0,Emergency room admission (procedure),3
+female,22.0,Emergency room admission (procedure),3
+male,4.0,Emergency room admission (procedure),2
+male,13.0,Hospital admission (procedure),10
+female,29.0,Obstetric emergency hospital admission (procedure),2
+female,40.0,Obstetric emergency hospital admission (procedure),3
+female,80.0,Emergency room admission (procedure),7
+female,16.0,Obstetric emergency hospital admission (procedure),2
+female,75.0,Admission to ward (procedure),9
+female,84.0,Emergency room admission (procedure),6
+male,10.0,Emergency room admission (procedure),2
+female,72.0,Emergency room admission (procedure),6
+male,55.0,Hospital admission (procedure),12
+female,51.0,Emergency room admission (procedure),6
+male,14.0,Emergency room admission (procedure),3
+male,44.0,Emergency room admission (procedure),3
+female,35.0,Admission to surgical department (procedure),7
+female,84.0,Emergency room admission (procedure),5
+female,25.0,Admission to surgical department (procedure),7
+male,75.0,Hospital admission (procedure),13
+female,78.0,Patient transfer to intensive care unit (procedure),9
+female,19.0,Obstetric emergency hospital admission (procedure),4
+male,65.0,Hospital admission (procedure),7
+female,11.0,Emergency room admission (procedure),2
+female,53.0,Admission to thoracic surgery department (procedure),5
+female,25.0,Admission to surgical department (procedure),8
+female,25.0,Admission to surgical department (procedure),6
+female,89.0,Admission to hospice (procedure),11
+female,33.0,Obstetric emergency hospital admission (procedure),5
+female,15.0,Emergency hospital admission (procedure),3
+female,45.0,Emergency room admission (procedure),5
+male,69.0,Emergency room admission (procedure),4
+male,9.0,Emergency room admission (procedure),1
+male,65.0,Hospital admission (procedure),8
+male,57.0,Emergency room admission (procedure),4
+male,102.0,Hospital admission (procedure),10
+female,61.0,Admission to surgical transplant department (procedure),10
+female,27.0,Emergency room admission (procedure),4
+male,13.0,Emergency room admission (procedure),4
+female,78.0,Hospital admission (procedure),13
+male,56.0,Admission to hospice (procedure),6
+female,63.0,Emergency room admission (procedure),4
+female,16.0,Emergency room admission (procedure),2
+female,46.0,Admission to hospice (procedure),11
+male,45.0,Emergency hospital admission (procedure),3
+female,21.0,Obstetric emergency hospital admission (procedure),4
+male,56.0,Emergency room admission (procedure),5
+male,57.0,Non-urgent orthopedic admission (procedure),12
+female,3.0,Hospital admission (procedure),6
+female,35.0,Obstetric emergency hospital admission (procedure),5
+female,75.0,Hospital admission (procedure),7
+male,45.0,Emergency room admission (procedure),4
+female,50.0,Hospital admission (procedure),10
+female,14.0,Emergency hospital admission (procedure),4
+male,16.0,Emergency room admission (procedure),4
+female,76.0,Emergency room admission (procedure),6
+male,62.0,Emergency room admission (procedure),4
+female,24.0,Emergency room admission (procedure),2
+female,42.0,Emergency room admission (procedure),5
+male,56.0,Emergency room admission (procedure),5
+male,28.0,Emergency room admission (procedure),2
+male,1.0,Emergency room admission (procedure),3
+female,48.0,Emergency room admission (procedure),3
+male,65.0,Emergency room admission (procedure),4
+female,2.0,Emergency room admission (procedure),3
+female,48.0,Emergency room admission (procedure),4
+male,48.0,Emergency hospital admission (procedure),4
+male,67.0,Emergency room admission (procedure),5
+male,73.0,Hospital admission (procedure),11
+female,20.0,Emergency room admission (procedure),3
+male,60.0,Emergency room admission (procedure),6
+female,26.0,Admission to surgical department (procedure),8
+female,34.0,Admission to intensive care unit (procedure),21
+female,9.0,Emergency room admission (procedure),1
+male,50.0,Admission to surgical transplant department (procedure),12
+male,45.0,Emergency room admission (procedure),5
+male,57.0,Admission to ward (procedure),8
+male,76.0,Emergency room admission (procedure),6
+male,13.0,Emergency room admission (procedure),3
+male,74.0,Emergency room admission (procedure),5
+male,29.0,Emergency room admission (procedure),3
+female,1.0,Emergency room admission (procedure),2
+female,27.0,Obstetric emergency hospital admission (procedure),2
+female,21.0,Obstetric emergency hospital admission (procedure),4
+male,21.0,Emergency room admission (procedure),2
+female,61.0,Emergency room admission (procedure),5
+female,29.0,Hospital admission (procedure),6
+female,95.0,Admission to surgical transplant department (procedure),11
+male,54.0,Emergency room admission (procedure),6
+female,24.0,Emergency room admission (procedure),2
+male,94.0,Emergency room admission (procedure),8
+female,16.0,Emergency room admission (procedure),4
+female,35.0,Admission to surgical department (procedure),9
+female,85.0,Emergency room admission (procedure),5
+male,48.0,Emergency room admission (procedure),4
+male,81.0,Emergency room admission (procedure),6
+female,28.0,Obstetric emergency hospital admission (procedure),3
+male,23.0,Emergency room admission (procedure),2
+male,87.0,Emergency room admission (procedure),5
+male,65.0,Emergency room admission (procedure),5
+female,46.0,Emergency room admission (procedure),5
+female,75.0,Emergency room admission (procedure),7
+male,82.0,Emergency room admission (procedure),7
+female,28.0,Obstetric emergency hospital admission (procedure),3
+female,67.0,Emergency room admission (procedure),6
+male,74.0,Hospital admission (procedure),11
+male,68.0,Emergency room admission (procedure),6
+female,96.0,Emergency room admission (procedure),7
+female,61.0,Emergency room admission (procedure),5
+female,25.0,Admission to surgical department (procedure),10
+female,70.0,Emergency room admission (procedure),6
+female,96.0,Emergency room admission (procedure),6
+female,42.0,Obstetric emergency hospital admission (procedure),3
+male,109.0,Emergency room admission (procedure),8
+female,35.0,Admission to surgical department (procedure),8
+male,70.0,Hospital admission (procedure),12
+female,9.0,Emergency room admission (procedure),3
+male,108.0,Emergency room admission (procedure),7
+female,86.0,Emergency room admission (procedure),7
+female,38.0,Obstetric emergency hospital admission (procedure),3
+male,46.0,Emergency room admission (procedure),3
+female,72.0,Emergency room admission (procedure),6
+female,85.0,Emergency room admission (procedure),7
+female,71.0,Hospital admission (procedure),9
+male,32.0,Emergency room admission (procedure),4
+female,71.0,Emergency room admission (procedure),7
+male,63.0,Patient transfer to intensive care unit (procedure),11
+female,72.0,Hospital admission (procedure),10
+male,45.0,Hospital admission (procedure),6
+female,31.0,Non-urgent orthopedic admission (procedure),11
+female,12.0,Emergency room admission (procedure),3
+male,62.0,Non-urgent orthopedic admission (procedure),12
+male,75.0,Admission to hospice (procedure),6
+male,51.0,Hospital admission (procedure),7
+male,11.0,Emergency room admission (procedure),2
+female,19.0,Emergency room admission (procedure),4
+female,75.0,Admission to ward (procedure),8
+female,35.0,Admission to surgical department (procedure),11
+female,17.0,Obstetric emergency hospital admission (procedure),3
+female,81.0,Emergency room admission (procedure),6
+female,68.0,Patient transfer to intensive care unit (procedure),15
+male,45.0,Admission to surgical transplant department (procedure),10
+female,8.0,Emergency room admission (procedure),3
+male,75.0,Admission to hospice (procedure),7
+male,100.0,Emergency room admission (procedure),8
+male,32.0,Emergency hospital admission (procedure),3
+male,40.0,Emergency room admission (procedure),4
+female,11.0,Emergency room admission (procedure),3
+female,5.0,Emergency room admission (procedure),1
+female,85.0,Emergency room admission (procedure),5
+female,72.0,Patient transfer to intensive care unit (procedure),9
+female,15.0,Emergency room admission (procedure),4
+female,29.0,Emergency room admission (procedure),4
+female,2.0,Emergency room admission (procedure),2
+male,60.0,Hospital admission (procedure),10
+female,35.0,Admission to surgical department (procedure),11
+female,66.0,Emergency room admission (procedure),5
+female,84.0,Emergency room admission (procedure),7
+female,49.0,Emergency room admission (procedure),3
+male,65.0,Admission to hospice (procedure),12
+male,44.0,Emergency room admission (procedure),4
+female,54.0,Emergency room admission (procedure),4
+male,73.0,Emergency room admission (procedure),7
+male,79.0,Emergency room admission (procedure),5
+male,51.0,Admission to intensive care unit (procedure),17
+male,54.0,Emergency room admission (procedure),6
+male,26.0,Emergency room admission (procedure),2
+female,16.0,Emergency room admission (procedure),4
+female,27.0,Obstetric emergency hospital admission (procedure),2
+female,34.0,Obstetric emergency hospital admission (procedure),3
+female,27.0,Emergency room admission (procedure),4
+female,13.0,Emergency room admission (procedure),4
+female,62.0,Emergency room admission (procedure),6
+female,31.0,Obstetric emergency hospital admission (procedure),3
+male,52.0,Admission to intensive care unit (procedure),20
+female,58.0,Admission to intensive care unit (procedure),19
+female,86.0,Emergency room admission (procedure),6
+male,38.0,Emergency hospital admission (procedure),5
+male,57.0,Admission to ward (procedure),9
+male,14.0,Hospital admission (procedure),3
+male,21.0,Emergency room admission (procedure),2
+male,30.0,Emergency room admission (procedure),2
+male,57.0,Emergency room admission (procedure),6
+female,26.0,Emergency room admission (procedure),2
+male,40.0,Emergency room admission (procedure),3
+female,35.0,Admission to surgical department (procedure),7
+male,51.0,Hospital admission (procedure),12
+male,48.0,Emergency room admission (procedure),3
+female,17.0,Emergency room admission (procedure),2
+female,21.0,Obstetric emergency hospital admission (procedure),3
+male,29.0,Emergency hospital admission (procedure),4
+male,15.0,Emergency room admission (procedure),2
+male,16.0,Emergency room admission (procedure),3
+male,104.0,Emergency room admission (procedure),7
+male,65.0,Hospital admission (procedure),11
+male,54.0,Emergency room admission (procedure),6
+female,79.0,Emergency hospital admission (procedure),6
+female,36.0,Obstetric emergency hospital admission (procedure),3
+female,41.0,Non-urgent orthopedic admission (procedure),11
+female,27.0,Emergency hospital admission (procedure),3
+male,66.0,Admission to intensive care unit (procedure),19
+male,74.0,Patient transfer to intensive care unit (procedure),19
+male,65.0,Admission to hospice (procedure),6
+male,56.0,Emergency room admission (procedure),4
+female,35.0,Admission to surgical department (procedure),11
+male,68.0,Emergency room admission (procedure),5
+male,7.0,Emergency room admission (procedure),1
+male,61.0,Emergency room admission (procedure),6
+female,79.0,Hospital admission (procedure),12
+male,63.0,Emergency room admission (procedure),5
+female,15.0,Emergency room admission (procedure),2
+female,65.0,Admission to surgical transplant department (procedure),5
+female,13.0,Emergency room admission (procedure),2
+female,85.0,Hospital admission (procedure),13
+male,101.0,Emergency room admission (procedure),7
+male,96.0,Hospital admission for isolation (procedure),7
+female,22.0,Emergency room admission (procedure),3
+male,47.0,Emergency hospital admission (procedure),3
+male,56.0,Emergency room admission (procedure),5
+male,61.0,Admission to ward (procedure),7
+male,55.0,Admission to ward (procedure),5
+female,57.0,Emergency room admission (procedure),4
+male,68.0,Emergency room admission (procedure),5
+male,52.0,Hospital admission (procedure),10
+female,19.0,Obstetric emergency hospital admission (procedure),4
+female,17.0,Obstetric emergency hospital admission (procedure),4
+female,46.0,Emergency room admission (procedure),4
+female,34.0,Emergency room admission (procedure),3
+male,22.0,Emergency room admission (procedure),4
+male,60.0,Emergency room admission (procedure),6
+female,29.0,Obstetric emergency hospital admission (procedure),2
+female,31.0,Emergency room admission (procedure),5
+male,51.0,Emergency room admission (procedure),4
+female,23.0,Emergency room admission (procedure),3
+female,27.0,Emergency hospital admission (procedure),2
+female,3.0,Emergency room admission (procedure),3
+male,77.0,Emergency room admission (procedure),7
+female,63.0,Emergency room admission (procedure),5
+male,60.0,Emergency room admission (procedure),5
+male,59.0,Emergency room admission (procedure),6
+male,39.0,Emergency hospital admission (procedure),4
+male,61.0,Hospital admission (procedure),5
+female,14.0,Emergency room admission (procedure),4
+male,90.0,Emergency room admission (procedure),6
+male,58.0,Emergency room admission (procedure),6
+female,68.0,Emergency room admission (procedure),4
+female,68.0,Admission to ward (procedure),11
+female,18.0,Emergency room admission (procedure),3
+male,50.0,Emergency room admission (procedure),4
+female,41.0,Emergency room admission (procedure),3
+female,31.0,Obstetric emergency hospital admission (procedure),5
+female,84.0,Emergency room admission (procedure),5
+female,56.0,Admission to intensive care unit (procedure),9
+male,23.0,Emergency room admission (procedure),2
+female,16.0,Emergency room admission (procedure),3
+female,35.0,Admission to surgical department (procedure),11
+male,58.0,Admission to hospice (procedure),6
+male,75.0,Admission to surgical transplant department (procedure),10
+male,31.0,Emergency room admission (procedure),5
+male,58.0,Emergency room admission (procedure),6
+female,25.0,Obstetric emergency hospital admission (procedure),2
+male,63.0,Hospital admission (procedure),12
+female,65.0,Admission to hospice (procedure),6
+male,109.0,Emergency room admission (procedure),8
+male,54.0,Hospital admission (procedure),12
+male,59.0,Emergency room admission (procedure),4
+male,51.0,Emergency room admission (procedure),4
+female,55.0,Emergency room admission (procedure),4
+female,85.0,Emergency room admission (procedure),7
+female,78.0,Hospital admission (procedure),12
+female,29.0,Emergency room admission (procedure),2
+female,31.0,Emergency room admission (procedure),5
+male,64.0,Emergency room admission (procedure),5
+male,66.0,Admission to surgical transplant department (procedure),6
+male,57.0,Emergency room admission (procedure),4
+male,15.0,Emergency room admission (procedure),4
+male,1.0,Emergency room admission (procedure),1
+female,2.0,Hospital admission (procedure),9
+male,42.0,Hospital admission (procedure),4
+male,69.0,Emergency room admission (procedure),4
+female,35.0,Admission to surgical department (procedure),11
+female,75.0,Admission to hospice (procedure),8
+female,59.0,Emergency room admission (procedure),5
+female,70.0,Emergency room admission (procedure),4
+female,46.0,Obstetric emergency hospital admission (procedure),5
+female,95.0,Emergency room admission (procedure),6
+male,75.0,Emergency room admission (procedure),7
+female,14.0,Emergency room admission (procedure),3
+male,75.0,Emergency room admission (procedure),6
+male,65.0,Hospital admission (procedure),7
+male,64.0,Admission to ward (procedure),7
+female,47.0,Emergency room admission (procedure),3
+male,58.0,Emergency room admission (procedure),5
+female,20.0,Obstetric emergency hospital admission (procedure),4
+male,14.0,Emergency room admission (procedure),3
+female,27.0,Obstetric emergency hospital admission (procedure),3
+male,15.0,Emergency room admission (procedure),4
+female,74.0,Hospital admission (procedure),7
+female,75.0,Hospital admission (procedure),13
+male,34.0,Emergency room admission (procedure),5
+female,24.0,Emergency room admission (procedure),4
+female,44.0,Emergency room admission (procedure),3
+female,1.0,Hospital admission (procedure),4
+female,68.0,Emergency room admission (procedure),6
+female,14.0,Emergency room admission (procedure),2
+female,34.0,Obstetric emergency hospital admission (procedure),4
+male,29.0,Emergency hospital admission for asthma (procedure),4
+female,22.0,Obstetric emergency hospital admission (procedure),2
+male,72.0,Emergency room admission (procedure),6
+male,67.0,Admission to ward (procedure),11
+male,44.0,Emergency hospital admission (procedure),5
+male,13.0,Hospital admission (procedure),10
+female,12.0,Emergency room admission (procedure),4
+female,75.0,Admission to hospice (procedure),11
+female,45.0,Emergency room admission (procedure),3
+male,39.0,Emergency hospital admission (procedure),5
+female,3.0,Emergency room admission (procedure),1
+female,65.0,Hospital admission (procedure),6
+male,38.0,Emergency room admission (procedure),3
+male,80.0,Emergency room admission (procedure),7
+male,50.0,Admission to intensive care unit (procedure),8
+male,63.0,Emergency room admission (procedure),5
+male,67.0,Emergency room admission (procedure),4
+male,15.0,Emergency hospital admission (procedure),2
+male,24.0,Hospital admission (procedure),10
+female,55.0,Emergency room admission (procedure),4
+female,22.0,Obstetric emergency hospital admission (procedure),2
+male,41.0,Emergency room admission (procedure),3
+female,63.0,Hospital admission (procedure),11
+female,1.0,Emergency room admission (procedure),1
+female,54.0,Emergency room admission (procedure),5
+female,1.0,Emergency room admission (procedure),3
+male,102.0,Emergency room admission (procedure),8
+female,35.0,Admission to surgical department (procedure),7
+male,32.0,Emergency room admission (procedure),3
+female,98.0,Emergency room admission (procedure),8
+male,6.0,Emergency room admission (procedure),3
+male,80.0,Emergency room admission (procedure),6
+female,75.0,Admission to hospice (procedure),11
+female,60.0,Emergency room admission (procedure),4
+male,88.0,Emergency room admission (procedure),5
+female,0.0,Emergency room admission (procedure),3
+female,2.0,Emergency room admission (procedure),3
+female,43.0,Admission to surgical department (procedure),5
+male,44.0,Emergency room admission (procedure),4
+male,67.0,Emergency room admission (procedure),6
+male,52.0,Hospital admission (procedure),9
+male,0.0,Emergency room admission (procedure),2
+female,3.0,Emergency room admission (procedure),2
+male,70.0,Emergency room admission (procedure),6
+male,74.0,Hospital admission (procedure),13
+female,11.0,Emergency room admission (procedure),4
+male,75.0,Emergency room admission (procedure),5
+female,64.0,Emergency room admission (procedure),5
+male,81.0,Emergency room admission (procedure),6
+male,65.0,Admission to hospice (procedure),11
+female,39.0,Admission to hospice (procedure),11
+female,37.0,Obstetric emergency hospital admission (procedure),3
+female,27.0,Obstetric emergency hospital admission (procedure),3
+female,19.0,Obstetric emergency hospital admission (procedure),3
+female,75.0,Emergency room admission (procedure),6
+male,56.0,Emergency room admission (procedure),5
+female,62.0,Emergency room admission (procedure),4
+male,101.0,Emergency room admission (procedure),6
+female,4.0,Emergency room admission (procedure),2
+male,52.0,Emergency room admission (procedure),4
+female,62.0,Emergency room admission (procedure),4
+female,73.0,Emergency room admission (procedure),5
+male,50.0,Emergency room admission (procedure),6
+female,15.0,Emergency room admission (procedure),2
+male,11.0,Emergency room admission (procedure),4
+male,12.0,Emergency room admission (procedure),4
+female,38.0,Obstetric emergency hospital admission (procedure),4
+male,76.0,Emergency room admission (procedure),7
+female,35.0,Admission to surgical department (procedure),5
+male,60.0,Patient transfer to intensive care unit (procedure),11
+female,51.0,Emergency room admission (procedure),4
+male,64.0,Admission to intensive care unit (procedure),12
+female,26.0,Obstetric emergency hospital admission (procedure),4
+male,62.0,Emergency hospital admission for asthma (procedure),5
+female,86.0,Emergency room admission (procedure),5
+female,35.0,Obstetric emergency hospital admission (procedure),4
+female,25.0,Obstetric emergency hospital admission (procedure),2
+female,22.0,Obstetric emergency hospital admission (procedure),2
+female,54.0,Emergency room admission (procedure),6
+female,78.0,Emergency room admission (procedure),6
+male,14.0,Emergency room admission (procedure),4
+female,60.0,Emergency room admission (procedure),5
+female,15.0,Emergency room admission (procedure),4
+male,61.0,Emergency room admission (procedure),6
+female,46.0,Emergency room admission (procedure),5
+female,38.0,Emergency room admission (procedure),4
+male,53.0,Emergency room admission (procedure),4
+female,42.0,Admission to surgical department (procedure),6
+female,77.0,Hospital admission (procedure),10
+female,26.0,Admission to surgical department (procedure),6
+female,55.0,Emergency room admission (procedure),5
+male,49.0,Emergency hospital admission (procedure),5
+female,20.0,Obstetric emergency hospital admission (procedure),2
+male,27.0,Emergency room admission (procedure),2
+male,19.0,Hospital admission (procedure),10
+male,65.0,Hospital admission (procedure),11
+male,56.0,Admission to hospice (procedure),6
+female,76.0,Emergency room admission (procedure),7
+male,25.0,Emergency hospital admission (procedure),3
+female,39.0,Emergency room admission (procedure),3
+male,34.0,Emergency hospital admission (procedure),4
+male,69.0,Emergency room admission (procedure),6
+male,52.0,Emergency room admission (procedure),4
+female,35.0,Emergency room admission (procedure),3
+male,39.0,Emergency room admission (procedure),4
+female,45.0,Emergency room admission (procedure),4
+female,95.0,Emergency room admission (procedure),8
+male,58.0,Hospital admission (procedure),6
+female,39.0,Hospital admission (procedure),8
+male,78.0,Emergency room admission (procedure),7
+female,25.0,Admission to surgical department (procedure),3
+male,47.0,Emergency room admission (procedure),3
+male,58.0,Emergency room admission (procedure),5
+male,18.0,Emergency room admission (procedure),4
+female,57.0,Admission to thoracic surgery department (procedure),12
+female,35.0,Admission to surgical department (procedure),9
+male,59.0,Hospital admission (procedure),9
+male,90.0,Emergency room admission (procedure),6
+female,30.0,Emergency room admission (procedure),4
+male,77.0,Emergency room admission (procedure),6
+female,35.0,Obstetric emergency hospital admission (procedure),3
+male,46.0,Hospital admission (procedure),5
+female,35.0,Admission to surgical department (procedure),10
+male,7.0,Emergency room admission (procedure),1
+male,48.0,Emergency room admission (procedure),5
+male,58.0,Emergency room admission (procedure),5
+female,58.0,Emergency room admission (procedure),5
+female,34.0,Emergency hospital admission for asthma (procedure),3
+female,35.0,Obstetric emergency hospital admission (procedure),5
+male,21.0,Emergency room admission (procedure),2
+female,34.0,Obstetric emergency hospital admission (procedure),4
+male,56.0,Admission to surgical transplant department (procedure),10
+female,46.0,Emergency room admission (procedure),4
+female,35.0,Admission to surgical department (procedure),6
+female,26.0,Emergency room admission (procedure),3
+female,79.0,Hospital admission (procedure),12
+female,12.0,Emergency room admission (procedure),4
+female,0.0,Emergency room admission (procedure),1
+male,74.0,Emergency room admission (procedure),7
+male,62.0,Emergency room admission (procedure),5
+female,26.0,Obstetric emergency hospital admission (procedure),2
+male,51.0,Emergency room admission (procedure),6
+female,23.0,Obstetric emergency hospital admission (procedure),4
+female,1.0,Emergency room admission (procedure),3
+female,68.0,Emergency room admission (procedure),6
+female,1.0,Emergency room admission (procedure),2
+male,21.0,Emergency room admission (procedure),2
+female,19.0,Obstetric emergency hospital admission (procedure),4
+male,24.0,Emergency room admission (procedure),4
+male,21.0,Hospital admission (procedure),6
+female,76.0,Emergency room admission (procedure),6
+male,56.0,Emergency room admission (procedure),4
+female,39.0,Emergency room admission (procedure),5
+female,28.0,Obstetric emergency hospital admission (procedure),2
+female,52.0,Emergency room admission (procedure),4
+female,65.0,Emergency room admission (procedure),6
+female,61.0,Emergency room admission (procedure),6
+female,66.0,Patient transfer to intensive care unit (procedure),16
+female,17.0,Emergency room admission (procedure),3
+female,22.0,Obstetric emergency hospital admission (procedure),4
+male,53.0,Admission to hospice (procedure),7
+male,22.0,Emergency room admission (procedure),4
+male,12.0,Hospital admission (procedure),3
+female,24.0,Obstetric emergency hospital admission (procedure),2
+female,29.0,Obstetric emergency hospital admission (procedure),2
+female,69.0,Admission to ward (procedure),8
+female,29.0,Emergency room admission (procedure),2
+female,48.0,Emergency room admission (procedure),5
+female,17.0,Obstetric emergency hospital admission (procedure),3
+male,67.0,Emergency room admission (procedure),4
+female,70.0,Hospital admission (procedure),12
+male,14.0,Emergency room admission (procedure),4
+female,34.0,Obstetric emergency hospital admission (procedure),3
+female,35.0,Admission to surgical department (procedure),9
+male,82.0,Emergency room admission (procedure),7
+male,59.0,Admission to ward (procedure),7
+male,23.0,Emergency room admission (procedure),4
+male,58.0,Emergency hospital admission (procedure),6
+male,91.0,Emergency room admission (procedure),8
+female,13.0,Emergency room admission (procedure),4
+female,70.0,Emergency room admission (procedure),6
+male,58.0,Hospital admission (procedure),11
+female,25.0,Obstetric emergency hospital admission (procedure),2
+male,24.0,Emergency room admission (procedure),4
+female,85.0,Emergency room admission (procedure),7
+male,7.0,Emergency room admission (procedure),2
+female,19.0,Obstetric emergency hospital admission (procedure),4
+female,50.0,Hospital admission for isolation (procedure),6
+male,76.0,Emergency room admission (procedure),5
+male,66.0,Emergency room admission (procedure),6
+female,40.0,Emergency room admission (procedure),4
+male,63.0,Emergency room admission (procedure),5
+female,33.0,Obstetric emergency hospital admission (procedure),5
+male,107.0,Emergency room admission (procedure),7
+female,85.0,Emergency department patient visit (procedure),5
+male,82.0,Emergency room admission (procedure),5
+female,48.0,Emergency room admission (procedure),5
+female,23.0,Obstetric emergency hospital admission (procedure),2
+male,49.0,Emergency room admission (procedure),3
+female,34.0,Obstetric emergency hospital admission (procedure),5
+male,52.0,Admission to intensive care unit (procedure),10
+female,35.0,Admission to surgical department (procedure),10
+female,29.0,Emergency room admission (procedure),2
+female,35.0,Admission to surgical department (procedure),5
+male,77.0,Emergency room admission (procedure),6
+male,15.0,Emergency room admission (procedure),2
+female,66.0,Emergency room admission (procedure),5
+female,84.0,Emergency room admission (procedure),6
+male,22.0,Emergency hospital admission for asthma (procedure),2
+female,53.0,Emergency room admission (procedure),6
+male,96.0,Admission to intensive care unit (procedure),19
+male,80.0,Emergency room admission (procedure),7
+male,75.0,Admission to hospice (procedure),10
+female,17.0,Emergency room admission (procedure),2
+male,46.0,Emergency room admission (procedure),3
+female,24.0,Obstetric emergency hospital admission (procedure),3
+male,62.0,Patient transfer to intensive care unit (procedure),17
+male,62.0,Emergency room admission (procedure),4
+male,21.0,Emergency room admission (procedure),3
+female,85.0,Emergency room admission (procedure),5
+male,41.0,Emergency room admission (procedure),3
+female,47.0,Admission to hospice (procedure),11
+male,23.0,Emergency room admission (procedure),2
+male,81.0,Emergency room admission (procedure),7
+male,64.0,Emergency hospital admission for asthma (procedure),6
+female,84.0,Emergency room admission (procedure),5
+male,68.0,Emergency room admission (procedure),4
+female,20.0,Obstetric emergency hospital admission (procedure),3
+male,70.0,Emergency room admission (procedure),6
+female,14.0,Emergency room admission (procedure),4
+female,16.0,Obstetric emergency hospital admission (procedure),3
+female,46.0,Emergency room admission (procedure),3
+male,16.0,Emergency room admission (procedure),4
+female,8.0,Emergency room admission (procedure),1
+female,76.0,Emergency room admission (procedure),5
+male,67.0,Emergency room admission (procedure),5
+female,71.0,Emergency room admission (procedure),7
+male,51.0,Admission to intensive care unit (procedure),21
+male,79.0,Emergency room admission (procedure),7
+male,7.0,Emergency room admission (procedure),3
+male,42.0,Hospital admission (procedure),8
+male,67.0,Emergency room admission (procedure),4
+female,5.0,Emergency room admission (procedure),3
+female,75.0,Admission to hospice (procedure),10
+female,31.0,Obstetric emergency hospital admission (procedure),4
+female,35.0,Admission to surgical department (procedure),5
+female,86.0,Emergency room admission (procedure),5
+female,14.0,Emergency room admission (procedure),2
+male,32.0,Hospital admission (procedure),11
+female,49.0,Admission to intensive care unit (procedure),9
+female,26.0,Emergency room admission (procedure),2
+male,63.0,Hospital admission (procedure),7
+male,38.0,Emergency room admission (procedure),5
+male,75.0,Emergency room admission (procedure),6
+female,27.0,Emergency room admission (procedure),3
+female,25.0,Obstetric emergency hospital admission (procedure),2
+female,28.0,Obstetric emergency hospital admission (procedure),4
+male,49.0,Emergency room admission (procedure),5
+female,56.0,Emergency room admission (procedure),5
+female,35.0,Emergency room admission (procedure),4
+female,72.0,Emergency room admission (procedure),5
+female,30.0,Emergency hospital admission for asthma (procedure),2
+female,4.0,Emergency room admission (procedure),3
+female,33.0,Obstetric emergency hospital admission (procedure),5
+male,47.0,Emergency room admission (procedure),5
+male,75.0,Hospital admission (procedure),8
+female,35.0,Admission to surgical department (procedure),10
+female,86.0,Emergency room admission (procedure),5
+female,67.0,Hospital admission (procedure),9
+male,50.0,Hospital admission (procedure),10
+female,103.0,Emergency room admission (procedure),7
+male,34.0,Emergency room admission (procedure),3
+female,27.0,Obstetric emergency hospital admission (procedure),2
+female,40.0,Emergency room admission (procedure),4
+male,8.0,Emergency room admission (procedure),3
+male,42.0,Emergency room admission (procedure),3
+female,55.0,Emergency room admission (procedure),6
+male,75.0,Emergency room admission (procedure),7
+male,62.0,Emergency room admission (procedure),5
+female,70.0,Emergency room admission (procedure),6
+male,47.0,Emergency room admission (procedure),5
+female,78.0,Hospital admission (procedure),11
+female,9.0,Emergency room admission (procedure),2
+male,18.0,Emergency hospital admission (procedure),3
+male,73.0,Emergency room admission (procedure),7
+male,101.0,Emergency room admission (procedure),7
+female,78.0,Emergency room admission (procedure),5
+female,27.0,Emergency room admission (procedure),3
+female,26.0,Obstetric emergency hospital admission (procedure),2
+male,75.0,Admission to ward (procedure),7
+male,58.0,Hospital admission (procedure),6
+female,25.0,Admission to surgical department (procedure),6
+male,96.0,Emergency room admission (procedure),6
+male,9.0,Emergency room admission (procedure),2
+male,19.0,Emergency room admission (procedure),2
+female,44.0,Emergency room admission (procedure),3
+female,86.0,Emergency room admission (procedure),6
+male,17.0,Emergency room admission (procedure),2
+female,68.0,Emergency room admission (procedure),4
+male,61.0,Emergency room admission (procedure),6
+male,27.0,Emergency room admission (procedure),4
+female,8.0,Emergency room admission (procedure),3
+female,65.0,Admission to hospice (procedure),7
+female,83.0,Emergency room admission (procedure),6
+female,40.0,Emergency room admission (procedure),3
+female,58.0,Emergency room admission (procedure),5
+female,75.0,Admission to hospice (procedure),11
+male,14.0,Emergency room admission (procedure),3
+female,31.0,Obstetric emergency hospital admission (procedure),5
+female,35.0,Obstetric emergency hospital admission (procedure),5
+male,72.0,Emergency room admission (procedure),5
+female,30.0,Obstetric emergency hospital admission (procedure),2
+female,78.0,Hospital admission (procedure),6
+female,30.0,Obstetric emergency hospital admission (procedure),2
+male,21.0,Emergency room admission (procedure),3
+male,57.0,Emergency room admission (procedure),6
+female,64.0,Emergency room admission (procedure),5
+male,43.0,Emergency hospital admission (procedure),5
+female,73.0,Emergency room admission (procedure),7
+female,54.0,Emergency room admission (procedure),4
+male,33.0,Emergency room admission (procedure),4
+male,81.0,Emergency room admission (procedure),5
+male,79.0,Emergency room admission (procedure),7
+male,40.0,Emergency room admission (procedure),3
+female,51.0,Emergency room admission (procedure),5
+male,25.0,Emergency room admission (procedure),3
+female,1.0,Emergency room admission (procedure),2
+female,35.0,Admission to surgical department (procedure),4
+female,38.0,Emergency room admission (procedure),4
+male,65.0,Emergency room admission (procedure),6
+female,24.0,Obstetric emergency hospital admission (procedure),3
+female,84.0,Emergency room admission (procedure),5
+male,3.0,Emergency room admission (procedure),1
+male,44.0,Emergency room admission (procedure),4
+female,4.0,Emergency room admission (procedure),3
+female,75.0,Emergency room admission (procedure),6
+male,51.0,Admission to intensive care unit (procedure),12
+female,22.0,Obstetric emergency hospital admission (procedure),2
+female,22.0,Obstetric emergency hospital admission (procedure),2
+female,26.0,Emergency room admission (procedure),4
+male,29.0,Emergency room admission (procedure),3
+male,66.0,Emergency room admission (procedure),5
+male,55.0,Admission to intensive care unit (procedure),16
+male,107.0,Emergency room admission (procedure),7
+male,51.0,Emergency room admission (procedure),6
+male,40.0,Emergency room admission (procedure),4
+male,46.0,Hospital admission (procedure),8
+male,55.0,Hospital admission (procedure),11
+male,32.0,Emergency room admission (procedure),4
+female,87.0,Emergency room admission (procedure),7
+male,64.0,Emergency room admission (procedure),5
+female,84.0,Emergency room admission (procedure),7
+female,86.0,Emergency room admission (procedure),7
+male,67.0,Hospital admission (procedure),12
+female,64.0,Hospital admission (procedure),11
+female,1.0,Emergency room admission (procedure),2
+male,60.0,Emergency room admission (procedure),5
+female,43.0,Emergency hospital admission for asthma (procedure),4
+female,72.0,Emergency room admission (procedure),5
+female,68.0,Patient transfer to intensive care unit (procedure),20
+male,58.0,Emergency room admission (procedure),6
+male,73.0,Emergency room admission (procedure),5
+male,65.0,Emergency room admission (procedure),4
+female,30.0,Obstetric emergency hospital admission (procedure),4
+female,39.0,Obstetric emergency hospital admission (procedure),5
+female,25.0,Admission to surgical department (procedure),3
+male,57.0,Emergency room admission (procedure),5
+female,31.0,Emergency hospital admission for asthma (procedure),5
+female,74.0,Emergency room admission (procedure),6
+female,12.0,Hospital admission (procedure),9
+female,39.0,Emergency room admission (procedure),3
+male,10.0,Emergency room admission (procedure),2
+female,24.0,Emergency room admission (procedure),3
+female,73.0,Emergency room admission (procedure),5
+female,5.0,Emergency room admission (procedure),2
+male,65.0,Admission to hospice (procedure),11
+female,60.0,Admission to ward (procedure),5
+female,35.0,Emergency hospital admission for asthma (procedure),3
+male,59.0,Admission to hospice (procedure),10
+male,46.0,Emergency hospital admission (procedure),3
+female,21.0,Emergency room admission (procedure),3
+female,68.0,Patient transfer to intensive care unit (procedure),17
+male,60.0,Admission to hospice (procedure),8
+female,86.0,Emergency room admission (procedure),7
+female,33.0,Obstetric emergency hospital admission (procedure),3
+female,50.0,Obstetric emergency hospital admission (procedure),6
+male,64.0,Hospital admission (procedure),7
+female,52.0,Emergency room admission (procedure),4
+male,56.0,Emergency room admission (procedure),4
+male,103.0,Emergency room admission (procedure),6
+male,54.0,Emergency room admission (procedure),5
+male,9.0,Emergency hospital admission for asthma (procedure),1
+male,65.0,Emergency room admission (procedure),4
+female,85.0,Admission to hospice (procedure),9
+male,11.0,Emergency room admission (procedure),3
+female,41.0,Emergency room admission (procedure),4
+female,13.0,Emergency room admission (procedure),4
+female,78.0,Emergency room admission (procedure),7
+female,31.0,Obstetric emergency hospital admission (procedure),4
+female,26.0,Obstetric emergency hospital admission (procedure),3
+female,25.0,Emergency hospital admission (procedure),3
+male,78.0,Emergency room admission (procedure),5
+male,71.0,Emergency hospital admission for asthma (procedure),6
+female,60.0,Emergency room admission (procedure),6
+female,85.0,Admission to hospice (procedure),12
+male,76.0,Emergency room admission (procedure),6
+female,24.0,Emergency hospital admission for asthma (procedure),3
+male,11.0,Emergency room admission (procedure),2
+male,16.0,Emergency room admission (procedure),2
+female,85.0,Emergency room admission (procedure),7
+female,19.0,Obstetric emergency hospital admission (procedure),3
+female,73.0,Emergency room admission (procedure),5
+female,45.0,Admission to intensive care unit (procedure),16
+female,26.0,Obstetric emergency hospital admission (procedure),2
+male,53.0,Emergency room admission (procedure),5
+female,51.0,Admission to surgical transplant department (procedure),8
+female,52.0,Emergency room admission (procedure),4
+male,10.0,Emergency room admission (procedure),2
+female,28.0,Emergency hospital admission (procedure),2
+female,54.0,Emergency room admission (procedure),5
+male,50.0,Emergency room admission (procedure),4
+female,40.0,Emergency room admission (procedure),5
+male,55.0,Admission to surgical transplant department (procedure),6
+female,14.0,Emergency room admission (procedure),2
+male,34.0,Emergency room admission (procedure),4
+female,33.0,Emergency room admission (procedure),4
+female,33.0,Obstetric emergency hospital admission (procedure),3
+female,42.0,Hospital admission (procedure),7
+female,13.0,Emergency room admission (procedure),4
+female,20.0,Emergency room admission (procedure),2
+female,9.0,Emergency room admission (procedure),3
+female,35.0,Admission to surgical department (procedure),9
+female,29.0,Obstetric emergency hospital admission (procedure),4
+female,80.0,Hospital admission (procedure),13
+female,48.0,Emergency room admission (procedure),4
+male,73.0,Emergency room admission (procedure),5
+male,105.0,Emergency room admission (procedure),8
+female,70.0,Emergency room admission (procedure),6
+female,81.0,Admission to intensive care unit (procedure),22
+male,53.0,Emergency room admission (procedure),5
+male,29.0,Emergency room admission (procedure),2
+male,32.0,Emergency room admission (procedure),5
+female,6.0,Emergency room admission (procedure),2
+male,9.0,Emergency room admission (procedure),3
+female,20.0,Obstetric emergency hospital admission (procedure),4
+female,18.0,Emergency hospital admission (procedure),4
+male,35.0,Emergency room admission (procedure),4
+female,25.0,Admission to surgical department (procedure),10
+male,68.0,Admission to hospice (procedure),10
+female,91.0,Emergency room admission (procedure),7
+female,78.0,Emergency room admission (procedure),7
+female,61.0,Hospital admission (procedure),8
+male,42.0,Emergency room admission (procedure),5
+female,44.0,Emergency room admission (procedure),3
+female,35.0,Admission to surgical department (procedure),10
+female,85.0,Emergency room admission (procedure),5
+female,85.0,Emergency room admission (procedure),7
+male,44.0,Emergency hospital admission (procedure),4
+male,44.0,Emergency hospital admission (procedure),4
+male,57.0,Emergency room admission (procedure),5
+female,40.0,Obstetric emergency hospital admission (procedure),4
+female,52.0,Emergency room admission (procedure),4
+female,30.0,Emergency room admission (procedure),2
+female,70.0,Emergency hospital admission (procedure),6
+female,29.0,Obstetric emergency hospital admission (procedure),2
+male,102.0,Emergency room admission (procedure),7
+male,46.0,Emergency room admission (procedure),5
+female,70.0,Hospital admission (procedure),8
+female,9.0,Emergency room admission (procedure),1
+female,84.0,Emergency room admission (procedure),7
+male,54.0,Emergency room admission (procedure),5
+male,43.0,Emergency hospital admission (procedure),4
+male,50.0,Hospital admission (procedure),12
+male,62.0,Hospital admission (procedure),11
+female,55.0,Emergency room admission (procedure),6
+female,16.0,Emergency room admission (procedure),4
+male,43.0,Emergency room admission (procedure),4
+female,65.0,Admission to hospice (procedure),8
+male,32.0,Emergency room admission (procedure),5
+female,21.0,Obstetric emergency hospital admission (procedure),3
+female,87.0,Emergency room admission (procedure),6
+female,84.0,Emergency room admission (procedure),5
+male,17.0,Emergency room admission (procedure),4
+female,23.0,Obstetric emergency hospital admission (procedure),2
+male,39.0,Emergency hospital admission (procedure),5
+male,77.0,Emergency room admission (procedure),6
+male,59.0,Admission to hospice (procedure),5
+female,25.0,Admission to surgical department (procedure),4
+female,17.0,Emergency room admission (procedure),2
+female,18.0,Emergency room admission (procedure),4
+female,62.0,Hospital admission for isolation (procedure),7
+female,35.0,Admission to surgical department (procedure),8
+male,67.0,Emergency room admission (procedure),4
+male,46.0,Hospital admission (procedure),6
+male,40.0,Admission to hospice (procedure),7
+female,31.0,Obstetric emergency hospital admission (procedure),5
+male,65.0,Admission to hospice (procedure),11
+male,11.0,Emergency room admission (procedure),3
+female,11.0,Emergency room admission (procedure),3
+male,43.0,Emergency room admission (procedure),4
+male,84.0,Emergency room admission (procedure),6
+male,26.0,Emergency room admission (procedure),4
+female,22.0,Obstetric emergency hospital admission (procedure),3
+male,62.0,Emergency room admission (procedure),4
+female,62.0,Emergency room admission (procedure),5
+male,47.0,Patient transfer to intensive care unit (procedure),20
+male,50.0,Admission to ward (procedure),10
+male,65.0,Hospital admission (procedure),12
+female,81.0,Hospital admission (procedure),11
+female,38.0,Obstetric emergency hospital admission (procedure),4
+male,96.0,Emergency room admission (procedure),6
+male,33.0,Admission to thoracic surgery department (procedure),8
+female,28.0,Obstetric emergency hospital admission (procedure),3
+female,29.0,Emergency room admission (procedure),4
+male,102.0,Emergency room admission (procedure),8
+female,37.0,Emergency room admission (procedure),4
+female,12.0,Hospital admission (procedure),8
+female,65.0,Hospital admission (procedure),10
+male,67.0,Hospital admission (procedure),11
+male,67.0,Admission to hospice (procedure),11
+male,43.0,Emergency room admission (procedure),4
+female,44.0,Emergency room admission (procedure),4
+female,28.0,Obstetric emergency hospital admission (procedure),3
+male,34.0,Hospital admission (procedure),4
+female,61.0,Emergency room admission (procedure),5
+male,55.0,Emergency room admission (procedure),5
+female,84.0,Emergency room admission (procedure),5
+female,40.0,Non-urgent orthopedic admission (procedure),4
+male,62.0,Hospital admission (procedure),10
+male,64.0,Hospital admission (procedure),12
+male,41.0,Emergency room admission (procedure),4
+male,57.0,Emergency room admission (procedure),6
+female,39.0,Emergency room admission (procedure),4
+male,79.0,Emergency room admission (procedure),5
+female,65.0,Hospital admission (procedure),7
+female,25.0,Emergency room admission (procedure),2
+female,85.0,Emergency room admission (procedure),7
+female,75.0,Admission to hospice (procedure),9
+female,65.0,Emergency room admission (procedure),4
+male,36.0,Emergency room admission (procedure),4
+male,63.0,Hospital admission (procedure),6
+female,11.0,Emergency room admission (procedure),3
+female,85.0,Emergency room admission (procedure),6
+male,102.0,Emergency room admission (procedure),8
+male,6.0,Emergency room admission (procedure),1
+male,53.0,Emergency room admission (procedure),6
+female,71.0,Emergency room admission (procedure),6
+female,78.0,Emergency room admission (procedure),7
+female,34.0,Obstetric emergency hospital admission (procedure),4
+male,56.0,Emergency room admission (procedure),6
+female,37.0,Emergency room admission (procedure),4
+female,57.0,Emergency room admission (procedure),5
+female,1.0,Emergency room admission (procedure),1
+female,56.0,Emergency room admission (procedure),4
+female,25.0,Admission to surgical department (procedure),4
+male,58.0,Emergency room admission (procedure),5
+female,77.0,Emergency hospital admission (procedure),6
+male,76.0,Admission to ward (procedure),10
+female,51.0,Emergency room admission (procedure),4
+female,6.0,Emergency room admission (procedure),2
+female,47.0,Emergency room admission (procedure),4
+female,25.0,Admission to surgical department (procedure),3
+female,27.0,Emergency room admission (procedure),2
+male,81.0,Emergency room admission (procedure),5
+female,46.0,Emergency room admission (procedure),4
+female,2.0,Emergency room admission (procedure),3
+male,14.0,Emergency room admission (procedure),3
+male,77.0,Admission to ward (procedure),8
+male,83.0,Emergency room admission (procedure),5
+male,44.0,Emergency hospital admission (procedure),3
+female,25.0,Admission to surgical department (procedure),10
+male,65.0,Admission to ward (procedure),6
+female,35.0,Obstetric emergency hospital admission (procedure),4
+male,68.0,Admission to hospice (procedure),6
+male,64.0,Emergency room admission (procedure),6
+female,84.0,Emergency room admission (procedure),7
+female,28.0,Emergency room admission (procedure),2
+female,72.0,Emergency room admission (procedure),6
+female,75.0,Admission to hospice (procedure),13
+male,44.0,Emergency hospital admission (procedure),5
+female,23.0,Emergency room admission (procedure),2
+female,72.0,Hospital admission (procedure),9
+female,76.0,Emergency room admission (procedure),5
+male,66.0,Emergency room admission (procedure),6
+female,43.0,Obstetric emergency hospital admission (procedure),5
+female,24.0,Emergency room admission (procedure),4
+male,68.0,Emergency room admission (procedure),5
+male,67.0,Emergency room admission (procedure),4
+female,79.0,Hospital admission (procedure),6
+male,74.0,Admission to hospice (procedure),10
+male,78.0,Hospital admission (procedure),6
+male,52.0,Emergency room admission (procedure),5
+male,65.0,Hospital admission (procedure),7
+female,5.0,Hospital admission (procedure),5
+male,9.0,Emergency room admission (procedure),1
+female,49.0,Emergency room admission (procedure),5
+female,35.0,Obstetric emergency hospital admission (procedure),4
+male,13.0,Emergency room admission (procedure),2
+female,66.0,Emergency room admission (procedure),4
+female,85.0,Emergency room admission (procedure),5
+female,86.0,Emergency room admission (procedure),5
+female,48.0,Emergency room admission (procedure),4
+male,60.0,Admission to hospice (procedure),8
+male,75.0,Emergency room admission (procedure),6
+male,65.0,Hospital admission (procedure),5
+male,75.0,Emergency room admission (procedure),7
+female,43.0,Emergency room admission (procedure),5
+female,85.0,Emergency room admission (procedure),7
+male,10.0,Emergency room admission (procedure),4
+male,90.0,Hospital admission (procedure),8
+female,27.0,Obstetric emergency hospital admission (procedure),3
+male,37.0,Emergency room admission (procedure),4
+male,81.0,Emergency room admission (procedure),6
+female,47.0,Emergency room admission (procedure),3
+female,74.0,Emergency room admission (procedure),6
+male,36.0,Emergency room admission (procedure),3
+female,84.0,Emergency room admission (procedure),6
+male,62.0,Emergency room admission (procedure),5
+female,38.0,Emergency room admission (procedure),4
+male,95.0,Hospital admission (procedure),7
+male,48.0,Admission to surgical transplant department (procedure),7
+female,25.0,Admission to surgical department (procedure),6
+male,33.0,Emergency room admission (procedure),3
+male,45.0,Emergency room admission (procedure),5
+female,66.0,Emergency room admission (procedure),4
+female,56.0,Emergency room admission (procedure),6
+female,58.0,Emergency room admission (procedure),4
+male,46.0,Admission to thoracic surgery department (procedure),10
+female,33.0,Obstetric emergency hospital admission (procedure),4
+male,76.0,Emergency room admission (procedure),7
+female,2.0,Emergency room admission (procedure),1
+female,65.0,Admission to hospice (procedure),6
+male,25.0,Emergency room admission (procedure),2
+female,41.0,Emergency room admission (procedure),3
+female,13.0,Emergency room admission (procedure),2
+male,56.0,Patient transfer to intensive care unit (procedure),17
+male,71.0,Emergency room admission (procedure),7
+female,22.0,Obstetric emergency hospital admission (procedure),4
+female,85.0,Admission to hospice (procedure),11
+male,16.0,Emergency room admission (procedure),3
+female,36.0,Admission to surgical department (procedure),11
+male,47.0,Emergency room admission (procedure),5
+male,64.0,Emergency room admission (procedure),5
+female,16.0,Obstetric emergency hospital admission (procedure),2
+female,23.0,Obstetric emergency hospital admission (procedure),3
+male,69.0,Emergency room admission (procedure),6
+female,32.0,Obstetric emergency hospital admission (procedure),5
+female,11.0,Hospital admission (procedure),7
+female,35.0,Admission to surgical department (procedure),4
+male,84.0,Hospital admission (procedure),6
+female,15.0,Emergency hospital admission (procedure),4
+male,56.0,Emergency room admission (procedure),6
+female,56.0,Emergency room admission (procedure),4
+female,35.0,Obstetric emergency hospital admission (procedure),3
+female,11.0,Emergency room admission (procedure),2
+female,25.0,Obstetric emergency hospital admission (procedure),2
+male,39.0,Emergency room admission (procedure),3
+female,15.0,Emergency room admission (procedure),4
+male,102.0,Emergency room admission (procedure),8
+male,45.0,Emergency room admission (procedure),3
+female,7.0,Emergency room admission (procedure),1
+male,49.0,Emergency room admission (procedure),3
+female,30.0,Emergency room admission (procedure),2
+male,67.0,Admission to hospice (procedure),11
+male,67.0,Emergency room admission (procedure),6
+male,65.0,Emergency room admission (procedure),4
+male,47.0,Hospital admission for isolation (procedure),10
+male,42.0,Hospital admission (procedure),9
+female,74.0,Emergency room admission (procedure),7
+female,38.0,Obstetric emergency hospital admission (procedure),3
+male,59.0,Emergency room admission (procedure),4
+female,47.0,Emergency room admission (procedure),4
+female,41.0,Hospital admission (procedure),7
+male,81.0,Emergency room admission (procedure),7
+female,35.0,Admission to surgical department (procedure),10
+male,45.0,Emergency room admission (procedure),5
+male,14.0,Emergency room admission (procedure),2
+male,45.0,Emergency room admission (procedure),3
+male,46.0,Emergency room admission (procedure),3
+female,85.0,Emergency room admission (procedure),7
+female,25.0,Emergency room admission (procedure),4
+male,100.0,Emergency room admission (procedure),8
+female,9.0,Emergency room admission (procedure),1
+male,40.0,Emergency room admission (procedure),5
+female,6.0,Emergency room admission (procedure),3
+female,58.0,Emergency room admission (procedure),5
+male,50.0,Emergency room admission (procedure),4
+female,45.0,Emergency room admission (procedure),5
+male,42.0,Emergency room admission (procedure),5
+male,75.0,Admission to hospice (procedure),8
+female,26.0,Admission to surgical department (procedure),7
+male,13.0,Emergency room admission (procedure),4
+male,51.0,Hospital admission (procedure),12
+male,20.0,Emergency room admission (procedure),2
+male,62.0,Non-urgent orthopedic admission (procedure),5
+female,36.0,Emergency room admission (procedure),4
+male,25.0,Emergency hospital admission (procedure),4
+male,31.0,Emergency room admission (procedure),3
+female,54.0,Emergency room admission (procedure),4
+female,52.0,Hospital admission (procedure),11
+female,20.0,Obstetric emergency hospital admission (procedure),3
+female,75.0,Patient transfer to intensive care unit (procedure),19
+male,38.0,Emergency hospital admission (procedure),4
+female,35.0,Admission to surgical department (procedure),4
+female,86.0,Emergency room admission (procedure),5
+female,6.0,Emergency hospital admission for asthma (procedure),3
+female,42.0,Emergency room admission (procedure),4
+female,85.0,Emergency room admission (procedure),7
+male,14.0,Emergency room admission (procedure),4
+female,14.0,Emergency hospital admission for asthma (procedure),3
+male,54.0,Admission to hospice (procedure),8
+female,5.0,Emergency room admission (procedure),1
+female,84.0,Emergency room admission (procedure),5
+female,52.0,Emergency room admission (procedure),6
+male,66.0,Emergency room admission (procedure),6
+female,25.0,Obstetric emergency hospital admission (procedure),2
+male,78.0,Emergency room admission (procedure),7
+female,23.0,Emergency room admission (procedure),4
+female,25.0,Admission to surgical department (procedure),7
+male,73.0,Emergency room admission (procedure),6
+male,47.0,Emergency room admission (procedure),4
+male,65.0,Emergency room admission (procedure),6
+male,34.0,Emergency room admission (procedure),3
+female,85.0,Emergency room admission (procedure),7
+female,47.0,Obstetric emergency hospital admission (procedure),5
+male,6.0,Emergency room admission (procedure),3
+male,75.0,Emergency room admission (procedure),6
+female,84.0,Emergency room admission (procedure),6
+female,37.0,Emergency room admission (procedure),5
+male,81.0,Emergency room admission (procedure),5
+male,76.0,Emergency room admission (procedure),5
+male,67.0,Emergency room admission (procedure),4
+female,78.0,Emergency room admission (procedure),5
+female,11.0,Emergency room admission (procedure),2
+female,86.0,Emergency room admission (procedure),6
+female,35.0,Admission to surgical department (procedure),5
+male,74.0,Emergency room admission (procedure),6
+female,42.0,Emergency room admission (procedure),3
+female,27.0,Emergency hospital admission (procedure),2
+female,44.0,Obstetric emergency hospital admission (procedure),5
+female,55.0,Emergency room admission (procedure),4
+female,30.0,Obstetric emergency hospital admission (procedure),4
+female,56.0,Emergency room admission (procedure),6
+male,0.0,Emergency room admission (procedure),1
+male,51.0,Emergency room admission (procedure),4
+female,30.0,Obstetric emergency hospital admission (procedure),4
+female,74.0,Emergency room admission (procedure),5
+male,79.0,Emergency room admission (procedure),5
+female,86.0,Emergency room admission (procedure),5
+female,46.0,Emergency room admission (procedure),3
+male,76.0,Hospital admission (procedure),9
+male,75.0,Hospital admission (procedure),10
+female,75.0,Emergency room admission (procedure),5
+male,62.0,Emergency room admission (procedure),6
+female,14.0,Emergency room admission (procedure),4
+female,54.0,Emergency room admission (procedure),5
+male,63.0,Emergency room admission (procedure),6
+male,52.0,Admission to ward (procedure),5
+female,17.0,Obstetric emergency hospital admission (procedure),4
+female,39.0,Non-urgent orthopedic admission (procedure),11
+female,64.0,Admission to clinical oncology department (procedure),5
+male,46.0,Hospital admission (procedure),10
+female,48.0,Emergency room admission (procedure),3
+female,46.0,Obstetric emergency hospital admission (procedure),4
+female,64.0,Emergency room admission (procedure),5
+female,22.0,Emergency room admission (procedure),4
+male,68.0,Emergency room admission (procedure),6
+female,22.0,Obstetric emergency hospital admission (procedure),3
+male,77.0,Hospital admission (procedure),12
+female,30.0,Obstetric emergency hospital admission (procedure),2
+female,84.0,Emergency room admission (procedure),7
+female,37.0,Emergency room admission (procedure),5
+female,68.0,Hospital admission (procedure),10
+male,101.0,Emergency room admission (procedure),6
+male,78.0,Emergency room admission (procedure),6
+male,76.0,Emergency room admission (procedure),7
+male,88.0,Admission to hospice (procedure),8
+male,76.0,Hospital admission (procedure),11
+male,44.0,Hospital admission for isolation (procedure),5
+female,91.0,Emergency room admission (procedure),7
+male,13.0,Emergency room admission (procedure),3
+male,25.0,Emergency room admission (procedure),3
+female,85.0,Emergency room admission (procedure),5
+female,68.0,Emergency room admission (procedure),4
+female,15.0,Emergency hospital admission (procedure),4
+male,61.0,Emergency room admission (procedure),6
+male,42.0,Emergency room admission (procedure),4
+male,56.0,Emergency room admission (procedure),4
+male,70.0,Emergency room admission (procedure),4
+male,25.0,Emergency room admission (procedure),4
+male,20.0,Emergency room admission (procedure),2
+male,70.0,Admission to hospice (procedure),6
+female,33.0,Obstetric emergency hospital admission (procedure),5
+female,60.0,Patient transfer to intensive care unit (procedure),11
+male,2.0,Emergency room admission (procedure),1
+male,56.0,Emergency room admission (procedure),5
+female,12.0,Emergency room admission (procedure),4
+male,79.0,Emergency room admission (procedure),5
+male,16.0,Emergency hospital admission (procedure),4
+female,79.0,Emergency room admission (procedure),6
+male,51.0,Emergency room admission (procedure),6
+female,13.0,Emergency room admission (procedure),3
+male,108.0,Emergency room admission (procedure),6
+male,82.0,Emergency room admission (procedure),5
+female,41.0,Emergency room admission (procedure),4
+male,75.0,Admission to hospice (procedure),7
+female,38.0,Obstetric emergency hospital admission (procedure),5
+female,13.0,Hospital admission (procedure),7
+female,68.0,Emergency room admission (procedure),6
+female,68.0,Hospital admission (procedure),10
+female,49.0,Emergency room admission (procedure),3
+male,75.0,Admission to hospice (procedure),11
+female,32.0,Emergency room admission (procedure),5
+male,44.0,Emergency room admission (procedure),3
+female,49.0,Admission to hospice (procedure),10
+female,31.0,Hospital admission (procedure),5
+male,31.0,Emergency hospital admission for asthma (procedure),3
+male,44.0,Emergency room admission (procedure),3
+male,17.0,Emergency room admission (procedure),3
+male,57.0,Emergency room admission (procedure),5
+female,73.0,Emergency room admission (procedure),5
+female,58.0,Admission to hospice (procedure),6
+female,75.0,Emergency room admission (procedure),6
+female,9.0,Emergency room admission (procedure),3
+female,72.0,Emergency room admission (procedure),7
+male,65.0,Admission to hospice (procedure),12
+male,21.0,Hospital admission (procedure),6
+female,54.0,Emergency room admission (procedure),5
+male,50.0,Admission to ward (procedure),10
+male,47.0,Hospital admission (procedure),8
+male,51.0,Emergency room admission (procedure),6
+male,71.0,Admission to hospice (procedure),9
+male,50.0,Patient transfer to intensive care unit (procedure),22
+male,81.0,Emergency room admission (procedure),5
+male,51.0,Emergency room admission (procedure),6
+male,1.0,Emergency room admission (procedure),3
+male,33.0,Emergency room admission (procedure),3
+male,54.0,Hospital admission (procedure),8
+female,51.0,Obstetric emergency hospital admission (procedure),5
+female,31.0,Obstetric emergency hospital admission (procedure),5
+female,56.0,Hospital admission (procedure),9
+male,57.0,Patient transfer to intensive care unit (procedure),20
+female,61.0,Admission to intensive care unit (procedure),8
+male,6.0,Emergency room admission (procedure),3
+female,59.0,Patient transfer to intensive care unit (procedure),17
+male,58.0,Admission to surgical transplant department (procedure),7
+female,49.0,Emergency room admission (procedure),4
+male,56.0,Emergency room admission (procedure),4
+female,36.0,Admission to surgical department (procedure),6
+male,69.0,Emergency room admission (procedure),4
+female,40.0,Emergency room admission (procedure),5
+male,8.0,Hospital admission (procedure),3
+male,65.0,Admission to ward (procedure),9
+female,25.0,Emergency room admission (procedure),2
+male,64.0,Emergency room admission (procedure),5
+female,14.0,Emergency room admission (procedure),3
+female,20.0,Emergency room admission (procedure),4
+male,44.0,Emergency room admission (procedure),5
+male,35.0,Emergency room admission (procedure),5
+female,41.0,Emergency room admission (procedure),3
+male,77.0,Emergency room admission (procedure),7
+female,84.0,Emergency room admission (procedure),6
+female,41.0,Hospital admission (procedure),8
+female,99.0,Emergency room admission (procedure),8
+female,15.0,Emergency room admission (procedure),2
+female,58.0,Admission to hospice (procedure),10
+female,60.0,Admission to ward (procedure),11
+female,24.0,Obstetric emergency hospital admission (procedure),4
+female,27.0,Emergency room admission (procedure),2
+male,53.0,Emergency room admission (procedure),4
+female,65.0,Admission to hospice (procedure),6
+female,9.0,Emergency room admission (procedure),2
+female,34.0,Emergency room admission (procedure),3
+female,35.0,Obstetric emergency hospital admission (procedure),3
+female,52.0,Emergency room admission (procedure),5
+male,2.0,Emergency room admission (procedure),1
+female,35.0,Admission to surgical department (procedure),8
+female,27.0,Obstetric emergency hospital admission (procedure),3
+male,65.0,Admission to hospice (procedure),6
+female,26.0,Obstetric emergency hospital admission (procedure),2
+female,68.0,Emergency room admission (procedure),5
+female,26.0,Obstetric emergency hospital admission (procedure),2
+female,47.0,Emergency room admission (procedure),4
+female,31.0,Emergency room admission (procedure),3
+male,51.0,Emergency room admission (procedure),5
+male,58.0,Admission to intensive care unit (procedure),13
+male,0.0,Admission to hospice (procedure),8
+female,31.0,Emergency room admission (procedure),4
+male,81.0,Emergency room admission (procedure),5
+male,9.0,Emergency room admission (procedure),3
+male,57.0,Emergency room admission (procedure),5
+male,71.0,Hospital admission (procedure),12
+female,22.0,Obstetric emergency hospital admission (procedure),2
+female,15.0,Non-urgent orthopedic admission (procedure),5
+male,95.0,Emergency room admission (procedure),7
+male,83.0,Admission to surgical transplant department (procedure),6
+female,66.0,Emergency room admission (procedure),4
+female,85.0,Emergency room admission (procedure),7
+female,75.0,Emergency room admission (procedure),7
+female,64.0,Hospital admission (procedure),5
+female,79.0,Emergency room admission (procedure),6
+male,39.0,Emergency room admission (procedure),4
+male,44.0,Admission to surgical transplant department (procedure),11
+male,100.0,Hospital admission (procedure),10
+female,28.0,Emergency room admission (procedure),3
+female,28.0,Emergency room admission (procedure),3
+female,35.0,Obstetric emergency hospital admission (procedure),3
+female,26.0,Obstetric emergency hospital admission (procedure),4
+female,84.0,Emergency room admission (procedure),7
+female,23.0,Obstetric emergency hospital admission (procedure),3
+male,51.0,Admission to intensive care unit (procedure),16
+female,85.0,Emergency room admission (procedure),7
+female,14.0,Emergency hospital admission for asthma (procedure),4
+male,69.0,Emergency room admission (procedure),6
+female,23.0,Obstetric emergency hospital admission (procedure),4
+female,63.0,Emergency room admission (procedure),4
+female,81.0,Emergency room admission (procedure),6
+female,74.0,Admission to surgical transplant department (procedure),13
+female,85.0,Emergency room admission (procedure),5
+male,62.0,Hospital admission (procedure),8
+female,39.0,Emergency room admission (procedure),4
+male,33.0,Emergency room admission (procedure),3
+female,78.0,Admission to ward (procedure),11
+female,34.0,Emergency room admission (procedure),4
+male,42.0,Emergency room admission (procedure),4
+female,34.0,Admission to intensive care unit (procedure),7
+female,64.0,Emergency room admission (procedure),5
+female,45.0,Emergency hospital admission (procedure),5
+male,14.0,Emergency room admission (procedure),2
+male,67.0,Emergency room admission (procedure),6
+male,50.0,Hospital admission (procedure),10
+male,14.0,Emergency room admission (procedure),4
+female,51.0,Admission to intensive care unit (procedure),12
+female,85.0,Emergency room admission (procedure),6
+female,14.0,Emergency room admission (procedure),3
+female,35.0,Admission to surgical department (procedure),6
+male,63.0,Emergency room admission (procedure),6
+male,67.0,Emergency room admission (procedure),4
+male,75.0,Hospital admission (procedure),10
+male,72.0,Hospital admission (procedure),8
+male,53.0,Emergency room admission (procedure),4
+male,56.0,Admission to ward (procedure),7
+male,12.0,Hospital admission (procedure),3
+female,73.0,Emergency room admission (procedure),7
+male,67.0,Admission to hospice (procedure),11
+male,10.0,Emergency room admission (procedure),4
+female,18.0,Emergency hospital admission for asthma (procedure),4
+female,75.0,Admission to hospice (procedure),7
+female,47.0,Emergency room admission (procedure),3
+female,32.0,Obstetric emergency hospital admission (procedure),5
+male,67.0,Emergency room admission (procedure),6
+female,25.0,Admission to surgical department (procedure),9
+female,16.0,Emergency room admission (procedure),2
+male,43.0,Hospital admission (procedure),7
+male,10.0,Emergency room admission (procedure),2
+male,12.0,Emergency room admission (procedure),4
+female,26.0,Obstetric emergency hospital admission (procedure),2
+female,0.0,Emergency room admission (procedure),1
+female,25.0,Obstetric emergency hospital admission (procedure),2
+male,65.0,Hospital admission (procedure),11
+male,77.0,Emergency room admission (procedure),5
+female,80.0,Admission to hospice (procedure),9
+female,75.0,Admission to hospice (procedure),9
+male,75.0,Admission to hospice (procedure),12
+male,64.0,Emergency room admission (procedure),4
+female,1.0,Emergency room admission (procedure),1
+female,79.0,Emergency room admission (procedure),7
+male,57.0,Admission to surgical transplant department (procedure),10
+male,27.0,Emergency room admission (procedure),3
+male,75.0,Admission to hospice (procedure),13
+female,54.0,Non-urgent orthopedic admission (procedure),5
+female,16.0,Emergency room admission (procedure),2
+male,85.0,Admission to hospice (procedure),9
+male,100.0,Emergency room admission (procedure),8
+male,39.0,Emergency room admission (procedure),4
+female,54.0,Emergency room admission (procedure),5
+female,63.0,Hospital admission (procedure),8
+female,75.0,Hospital admission (procedure),10
+female,49.0,Emergency room admission (procedure),4
+female,28.0,Emergency hospital admission (procedure),2
+female,56.0,Admission to ward (procedure),7
+female,35.0,Admission to surgical department (procedure),6
+male,13.0,Emergency room admission (procedure),2
+female,45.0,Emergency room admission (procedure),5
+female,98.0,Emergency room admission (procedure),6
+male,64.0,Emergency room admission (procedure),6
+male,16.0,Emergency room admission (procedure),4
+female,28.0,Emergency room admission (procedure),3
+female,82.0,Admission to hospice (procedure),10
+female,41.0,Admission to surgical transplant department (procedure),5
+female,54.0,Hospital admission (procedure),9
+male,67.0,Emergency room admission (procedure),5
+female,37.0,Hospital admission (procedure),8
+female,64.0,Emergency room admission (procedure),4
+male,53.0,Emergency room admission (procedure),5
+male,51.0,Patient transfer to intensive care unit (procedure),16
+female,76.0,Emergency room admission (procedure),7
+male,61.0,Emergency room admission (procedure),5
+female,40.0,Emergency room admission (procedure),3
+female,71.0,Emergency room admission (procedure),7
+female,30.0,Hospital admission (procedure),6
+male,56.0,Emergency room admission (procedure),5
+female,20.0,Obstetric emergency hospital admission (procedure),4
+female,58.0,Emergency room admission (procedure),5
+female,17.0,Obstetric emergency hospital admission (procedure),3
+female,16.0,Emergency room admission (procedure),2
+male,84.0,Emergency room admission (procedure),5
+female,65.0,Hospital admission (procedure),10
+female,79.0,Emergency room admission (procedure),5
+female,34.0,Obstetric emergency hospital admission (procedure),5
+male,58.0,Emergency room admission (procedure),6
+male,99.0,Emergency room admission (procedure),6
+male,57.0,Emergency room admission (procedure),4
+female,26.0,Emergency room admission (procedure),4
+female,87.0,Emergency room admission (procedure),7
+male,70.0,Emergency room admission (procedure),6
+male,40.0,Emergency room admission (procedure),3
+female,55.0,Admission to surgical transplant department (procedure),10
+male,52.0,Patient transfer to intensive care unit (procedure),19
+female,35.0,Obstetric emergency hospital admission (procedure),3
+male,56.0,Emergency room admission (procedure),4
+female,8.0,Emergency room admission (procedure),2
+male,66.0,Emergency room admission (procedure),5
+male,81.0,Emergency room admission (procedure),5
+female,104.0,Emergency room admission (procedure),8
+male,57.0,Emergency room admission (procedure),5
+female,35.0,Admission to surgical department (procedure),11
+female,24.0,Hospital admission (procedure),4
+male,31.0,Emergency room admission (procedure),4
+female,44.0,Emergency room admission (procedure),5
+male,62.0,Hospital admission (procedure),5
+male,64.0,Emergency room admission (procedure),4
+female,21.0,Obstetric emergency hospital admission (procedure),2
+female,86.0,Emergency room admission (procedure),7
+female,34.0,Obstetric emergency hospital admission (procedure),5
+female,103.0,Hospital admission (procedure),14
+male,39.0,Emergency room admission (procedure),3
+male,69.0,Emergency room admission (procedure),6
+male,17.0,Emergency room admission (procedure),3
+female,75.0,Emergency room admission (procedure),7
+male,59.0,Admission to intensive care unit (procedure),8
+female,35.0,Admission to surgical department (procedure),7
+male,63.0,Non-urgent orthopedic admission (procedure),10
+male,66.0,Emergency room admission (procedure),4
+female,29.0,Emergency room admission (procedure),3
+male,69.0,Emergency room admission (procedure),6
+male,52.0,Emergency room admission (procedure),6
+female,14.0,Emergency room admission (procedure),4
+female,24.0,Obstetric emergency hospital admission (procedure),2
+male,10.0,Emergency room admission (procedure),2
+male,21.0,Emergency room admission (procedure),4
+female,85.0,Emergency room admission (procedure),5
+male,1.0,Admission to hospice (procedure),6
+male,54.0,Emergency hospital admission for asthma (procedure),5
+female,14.0,Hospital admission (procedure),6
+female,75.0,Admission to hospice (procedure),6
+female,39.0,Emergency room admission (procedure),5
+female,32.0,Obstetric emergency hospital admission (procedure),5
+female,55.0,Emergency room admission (procedure),4
+female,18.0,Emergency room admission (procedure),2
+female,57.0,Emergency room admission (procedure),6
+female,64.0,Emergency room admission (procedure),5
+female,56.0,Admission to surgical transplant department (procedure),7
+female,64.0,Emergency room admission (procedure),4
+female,34.0,Obstetric emergency hospital admission (procedure),4
+male,17.0,Emergency room admission (procedure),4
+male,30.0,Emergency room admission (procedure),4
+male,67.0,Hospital admission (procedure),10
+female,58.0,Emergency room admission (procedure),6
+female,59.0,Emergency room admission (procedure),5
+female,58.0,Emergency room admission (procedure),4
+female,25.0,Admission to surgical department (procedure),8
+male,67.0,Emergency room admission (procedure),4
+female,81.0,Admission to hospice (procedure),12
+female,14.0,Emergency room admission (procedure),4
+female,49.0,Emergency room admission (procedure),3
+male,57.0,Admission to ward (procedure),9
+female,72.0,Emergency room admission (procedure),6
+male,40.0,Emergency hospital admission (procedure),4
+female,31.0,Obstetric emergency hospital admission (procedure),4
+female,40.0,Emergency room admission (procedure),3
+female,71.0,Emergency room admission (procedure),5
+female,69.0,Emergency room admission (procedure),4
+female,86.0,Emergency room admission (procedure),5
+male,47.0,Emergency room admission (procedure),3
+female,26.0,Obstetric emergency hospital admission (procedure),3
+female,38.0,Obstetric emergency hospital admission (procedure),3
+male,50.0,Emergency room admission (procedure),4
+female,15.0,Emergency room admission (procedure),3
+male,45.0,Emergency room admission (procedure),4
+male,26.0,Emergency hospital admission for asthma (procedure),2
+male,65.0,Admission to hospice (procedure),12
+male,67.0,Emergency room admission (procedure),4
+male,14.0,Hospital admission (procedure),6
+male,46.0,Emergency room admission (procedure),3
+female,3.0,Hospital admission (procedure),4
+male,75.0,Admission to hospice (procedure),6
+female,9.0,Hospital admission (procedure),6
+female,68.0,Admission to ward (procedure),12
+female,28.0,Emergency room admission (procedure),4
+male,60.0,Emergency room admission (procedure),6
+female,39.0,Obstetric emergency hospital admission (procedure),5
+female,37.0,Emergency room admission (procedure),4
+female,35.0,Admission to surgical department (procedure),6
+male,81.0,Emergency room admission (procedure),5
+male,29.0,Hospital admission (procedure),8
+male,15.0,Emergency room admission (procedure),3
+female,36.0,Admission to surgical department (procedure),6
+female,33.0,Emergency room admission (procedure),3
+female,48.0,Emergency room admission (procedure),4
+male,79.0,Emergency room admission (procedure),7
+male,67.0,Admission to hospice (procedure),9
+female,27.0,Emergency room admission (procedure),2
+male,13.0,Emergency room admission (procedure),4
+male,24.0,Emergency hospital admission for asthma (procedure),3
+female,29.0,Obstetric emergency hospital admission (procedure),4
+female,23.0,Obstetric emergency hospital admission (procedure),4
+female,68.0,Emergency room admission (procedure),6
+male,65.0,Emergency room admission (procedure),4
+male,65.0,Emergency room admission (procedure),4
+female,104.0,Hospital admission (procedure),13
+female,66.0,Emergency room admission (procedure),5
+female,33.0,Obstetric emergency hospital admission (procedure),4
+male,67.0,Emergency room admission (procedure),6
+female,84.0,Emergency room admission (procedure),5
+male,45.0,Emergency room admission (procedure),5
+male,53.0,Hospital admission for isolation (procedure),7
+male,1.0,Emergency room admission (procedure),3
+male,9.0,Emergency room admission (procedure),1
+female,5.0,Emergency room admission (procedure),1
+male,74.0,Emergency room admission (procedure),5
+female,66.0,Emergency room admission (procedure),5
+male,62.0,Emergency room admission (procedure),4
+female,59.0,Admission to hospice (procedure),10
+female,25.0,Admission to surgical department (procedure),4
+male,76.0,Emergency room admission (procedure),6
+male,60.0,Admission to hospice (procedure),5
+female,33.0,Emergency room admission (procedure),3
+male,44.0,Emergency room admission (procedure),3
+male,30.0,Emergency room admission (procedure),4
+male,79.0,Emergency room admission (procedure),7
+male,25.0,Hospital admission (procedure),10
+male,61.0,Emergency room admission (procedure),6
+female,74.0,Emergency room admission (procedure),7
+female,75.0,Emergency room admission (procedure),5
+female,1.0,Emergency room admission (procedure),2
+female,44.0,Obstetric emergency hospital admission (procedure),3
+male,68.0,Hospital admission (procedure),8
+female,24.0,Obstetric emergency hospital admission (procedure),3
+female,55.0,Emergency room admission (procedure),5
+male,72.0,Emergency room admission (procedure),7
+male,21.0,Emergency room admission (procedure),3
+female,30.0,Obstetric emergency hospital admission (procedure),4
+male,19.0,Emergency hospital admission for asthma (procedure),3
+male,54.0,Emergency room admission (procedure),5
+female,85.0,Emergency room admission (procedure),6
+male,69.0,Emergency room admission (procedure),6
+male,56.0,Emergency room admission (procedure),4
+female,50.0,Obstetric emergency hospital admission (procedure),4
+female,63.0,Hospital admission (procedure),7
+female,51.0,Emergency room admission (procedure),5
+male,6.0,Emergency room admission (procedure),2
+female,79.0,Emergency room admission (procedure),5
+male,46.0,Emergency hospital admission (procedure),5
+female,64.0,Emergency room admission (procedure),6
+female,50.0,Obstetric emergency hospital admission (procedure),4
+female,76.0,Emergency hospital admission (procedure),7
+male,5.0,Emergency room admission (procedure),3
+female,28.0,Obstetric emergency hospital admission (procedure),3
+male,64.0,Emergency room admission (procedure),5
+female,33.0,Emergency room admission (procedure),3
+male,76.0,Admission to hospice (procedure),13
+female,54.0,Emergency hospital admission for asthma (procedure),5
+male,108.0,Emergency room admission (procedure),8
+female,17.0,Emergency room admission (procedure),4
+female,48.0,Emergency room admission (procedure),5
+male,10.0,Hospital admission (procedure),6
+female,82.0,Emergency room admission (procedure),5
+female,26.0,Obstetric emergency hospital admission (procedure),2
+male,68.0,Emergency room admission (procedure),4
+female,45.0,Obstetric emergency hospital admission (procedure),3
+female,8.0,Hospital admission (procedure),9
+male,46.0,Emergency room admission (procedure),5
+female,62.0,Hospital admission (procedure),12
+female,75.0,Admission to hospice (procedure),8
+female,74.0,Emergency room admission (procedure),7
+female,26.0,Emergency room admission (procedure),2
+male,50.0,Hospital admission (procedure),4
+female,56.0,Admission to hospice (procedure),10
+male,15.0,Emergency room admission (procedure),3
+female,29.0,Obstetric emergency hospital admission (procedure),4
+female,17.0,Emergency room admission (procedure),4
+female,30.0,Emergency room admission (procedure),4
+male,14.0,Emergency hospital admission (procedure),3
+male,27.0,Hospital admission (procedure),3
+male,62.0,Hospital admission (procedure),10
+male,30.0,Emergency room admission (procedure),2
+female,63.0,Emergency room admission (procedure),4
+male,23.0,Emergency room admission (procedure),2
+female,56.0,Admission to hospice (procedure),12
+female,68.0,Emergency room admission (procedure),5
+female,72.0,Emergency room admission (procedure),6
+female,43.0,Obstetric emergency hospital admission (procedure),5
+female,46.0,Emergency room admission (procedure),4
+female,27.0,Obstetric emergency hospital admission (procedure),2
+male,56.0,Emergency room admission (procedure),6
+male,67.0,Emergency room admission (procedure),4
+male,18.0,Emergency room admission (procedure),2
+female,6.0,Emergency room admission (procedure),2
+female,41.0,Emergency room admission (procedure),4
+female,7.0,Emergency room admission (procedure),2
+female,51.0,Emergency room admission (procedure),6
+male,45.0,Emergency room admission (procedure),3
+male,48.0,Emergency room admission (procedure),4
+female,14.0,Emergency room admission (procedure),2
+male,17.0,Emergency hospital admission (procedure),2
+female,2.0,Emergency room admission (procedure),2
+male,67.0,Emergency room admission (procedure),4
+male,37.0,Emergency room admission (procedure),3
+female,68.0,Emergency room admission (procedure),5
+male,48.0,Emergency room admission (procedure),4
+female,49.0,Hospital admission (procedure),8
+male,92.0,Emergency room admission (procedure),8
+female,66.0,Emergency room admission (procedure),5
+female,31.0,Emergency room admission (procedure),5
+female,59.0,Admission to ward (procedure),8
+male,29.0,Emergency hospital admission (procedure),2
+female,81.0,Emergency room admission (procedure),7
+female,68.0,Emergency room admission (procedure),6
+male,86.0,Emergency room admission (procedure),7
+female,65.0,Admission to hospice (procedure),10
+female,28.0,Emergency room admission (procedure),2
+female,35.0,Emergency room admission (procedure),3
+male,37.0,Emergency room admission (procedure),4
+male,50.0,Emergency room admission (procedure),4
+female,65.0,Hospital admission (procedure),8
+female,53.0,Admission to ward (procedure),6
+male,81.0,Emergency room admission (procedure),6
+female,32.0,Obstetric emergency hospital admission (procedure),5
+female,26.0,Emergency room admission (procedure),2
+female,20.0,Emergency hospital admission for asthma (procedure),3
+female,69.0,Emergency room admission (procedure),4
+female,64.0,Emergency room admission (procedure),5
+male,47.0,Emergency room admission (procedure),3
+female,62.0,Emergency room admission (procedure),6
+male,51.0,Admission to hospice (procedure),10
+female,65.0,Admission to hospice (procedure),10
+female,35.0,Admission to surgical department (procedure),11
+female,0.0,Emergency room admission (procedure),1
+female,61.0,Emergency room admission (procedure),5
+female,30.0,Obstetric emergency hospital admission (procedure),4
+male,11.0,Emergency room admission (procedure),2
+male,75.0,Admission to hospice (procedure),13
+female,52.0,Emergency room admission (procedure),4
+female,30.0,Obstetric emergency hospital admission (procedure),4
+male,85.0,Admission to hospice (procedure),9
+female,62.0,Emergency room admission (procedure),4
+female,33.0,Emergency room admission (procedure),4
+male,39.0,Emergency room admission (procedure),5
+female,44.0,Emergency room admission (procedure),4
+male,69.0,Emergency room admission (procedure),5
+female,24.0,Emergency room admission (procedure),4
+male,109.0,Emergency room admission (procedure),8
+male,22.0,Emergency room admission (procedure),4
+female,32.0,Obstetric emergency hospital admission (procedure),5
+male,67.0,Emergency room admission (procedure),5
+female,74.0,Emergency room admission (procedure),6
+female,35.0,Admission to surgical department (procedure),6
+female,47.0,Emergency room admission (procedure),4
+female,60.0,Hospital admission (procedure),10
+female,69.0,Emergency room admission (procedure),4
+male,6.0,Emergency room admission (procedure),2
+male,47.0,Emergency room admission (procedure),5
+male,49.0,Emergency room admission (procedure),4
+male,36.0,Admission to hospice (procedure),4
+female,68.0,Emergency room admission (procedure),5
+male,31.0,Emergency room admission (procedure),4
+female,106.0,Emergency room admission (procedure),8
+female,31.0,Emergency room admission (procedure),5
+female,6.0,Emergency room admission (procedure),3
+female,27.0,Obstetric emergency hospital admission (procedure),4
+female,72.0,Emergency room admission (procedure),7
+male,69.0,Emergency room admission (procedure),5
+female,47.0,Obstetric emergency hospital admission (procedure),5
+female,14.0,Emergency hospital admission (procedure),3
+male,12.0,Emergency room admission (procedure),4
+male,67.0,Emergency room admission (procedure),4
+male,100.0,Patient transfer to intensive care unit (procedure),15
+female,20.0,Emergency room admission (procedure),4
+male,14.0,Emergency room admission (procedure),2
+male,56.0,Emergency room admission (procedure),4
+female,33.0,Obstetric emergency hospital admission (procedure),3
+female,84.0,Emergency room admission (procedure),7
+female,97.0,Emergency room admission (procedure),6
+female,8.0,Emergency room admission (procedure),3
+female,14.0,Hospital admission (procedure),10
+female,25.0,Admission to surgical department (procedure),9
+male,0.0,Emergency room admission (procedure),3
+male,45.0,Emergency room admission (procedure),3
+female,33.0,Obstetric emergency hospital admission (procedure),3
+male,56.0,Emergency room admission (procedure),6
+male,20.0,Emergency room admission (procedure),3
+male,39.0,Emergency room admission (procedure),3
+male,101.0,Emergency room admission (procedure),6
+female,15.0,Emergency room admission (procedure),4
+female,18.0,Obstetric emergency hospital admission (procedure),3
+male,66.0,Emergency room admission (procedure),5
+female,53.0,Emergency room admission (procedure),6
+male,50.0,Emergency hospital admission (procedure),6
+female,14.0,Emergency room admission (procedure),4
+female,80.0,Emergency room admission (procedure),5
+male,38.0,Emergency room admission (procedure),5
+male,56.0,Hospital admission (procedure),10
+male,75.0,Patient transfer to intensive care unit (procedure),15
+male,79.0,Emergency room admission (procedure),5
+male,50.0,Emergency room admission (procedure),6
+female,87.0,Admission to hospice (procedure),11
+female,21.0,Emergency room admission (procedure),3
+female,46.0,Obstetric emergency hospital admission (procedure),5
+male,39.0,Emergency room admission (procedure),4
+male,38.0,Emergency room admission (procedure),5
+female,32.0,Obstetric emergency hospital admission (procedure),5
+male,0.0,Emergency room admission (procedure),1
+male,64.0,Emergency room admission (procedure),4
+female,14.0,Emergency room admission (procedure),4
+male,48.0,Emergency room admission (procedure),4
+male,60.0,Admission to ward (procedure),7
+female,45.0,Emergency room admission (procedure),3
+female,72.0,Emergency room admission (procedure),5
+male,72.0,Admission to surgical transplant department (procedure),11
+female,44.0,Obstetric emergency hospital admission (procedure),5
+female,66.0,Emergency room admission (procedure),4
+female,32.0,Emergency hospital admission (procedure),5
+male,21.0,Emergency room admission (procedure),3
+male,46.0,Emergency room admission (procedure),3
+female,61.0,Hospital admission (procedure),11
+male,0.0,Emergency room admission (procedure),3
+male,75.0,Hospital admission (procedure),11
+male,29.0,Emergency hospital admission (procedure),3
+female,17.0,Hospital admission (procedure),4
+male,43.0,Emergency room admission (procedure),4
+male,63.0,Emergency room admission (procedure),5
+male,26.0,Emergency room admission (procedure),3
+male,77.0,Emergency room admission (procedure),6
+female,28.0,Obstetric emergency hospital admission (procedure),4
+male,33.0,Emergency room admission (procedure),3
+male,30.0,Emergency room admission (procedure),4
+male,38.0,Non-urgent orthopedic admission (procedure),8
+female,1.0,Emergency room admission (procedure),1
+male,53.0,Emergency room admission (procedure),6
+male,10.0,Emergency room admission (procedure),2
+male,56.0,Emergency room admission (procedure),4
+female,41.0,Admission to surgical department (procedure),8
+female,65.0,Admission to hospice (procedure),8
+female,16.0,Emergency room admission (procedure),2
+female,69.0,Emergency room admission (procedure),6
+male,70.0,Hospital admission (procedure),10
+female,25.0,Emergency room admission (procedure),3
+female,35.0,Admission to surgical department (procedure),10
+female,62.0,Emergency room admission (procedure),4
+female,14.0,Emergency room admission (procedure),2
+male,47.0,Emergency room admission (procedure),5
+female,104.0,Admission to surgical transplant department (procedure),10
+female,3.0,Emergency room admission (procedure),1
+female,60.0,Emergency room admission (procedure),6
+female,65.0,Admission to hospice (procedure),7
+female,77.0,Non-urgent orthopedic admission (procedure),7
+male,68.0,Emergency room admission (procedure),5
+female,86.0,Emergency room admission (procedure),6
+female,14.0,Emergency hospital admission (procedure),3
+male,51.0,Admission to intensive care unit (procedure),12
+female,52.0,Emergency room admission (procedure),6
+male,53.0,Emergency room admission (procedure),6
+female,14.0,Emergency room admission (procedure),3
+male,75.0,Emergency room admission (procedure),6
+male,81.0,Hospital admission (procedure),8
+female,81.0,Admission to intensive care unit (procedure),21
+male,29.0,Emergency room admission (procedure),2
+male,72.0,Admission to hospice (procedure),13
+female,34.0,Obstetric emergency hospital admission (procedure),4
+female,36.0,Emergency room admission (procedure),4
+female,25.0,Obstetric emergency hospital admission (procedure),4
+female,45.0,Emergency room admission (procedure),3
+female,41.0,Obstetric emergency hospital admission (procedure),3
+male,65.0,Emergency room admission (procedure),4
+male,46.0,Emergency room admission (procedure),4
+male,17.0,Emergency room admission (procedure),2
+male,6.0,Emergency room admission (procedure),2
+female,99.0,Emergency room admission (procedure),7
+female,33.0,Emergency room admission (procedure),5
+male,65.0,Hospital admission (procedure),5
+female,24.0,Obstetric emergency hospital admission (procedure),3
+female,58.0,Admission to intensive care unit (procedure),10
+male,65.0,Admission to hospice (procedure),10
+female,11.0,Emergency room admission (procedure),3
+male,65.0,Emergency room admission (procedure),5
+male,38.0,Emergency room admission (procedure),3
+female,14.0,Emergency room admission (procedure),4
+male,65.0,Emergency room admission (procedure),6
+female,59.0,Emergency room admission (procedure),6
+female,10.0,Admission to hospice (procedure),2
+male,51.0,Emergency room admission (procedure),4
+female,75.0,Emergency room admission (procedure),6
+male,55.0,Patient transfer to intensive care unit (procedure),13
+male,83.0,Emergency room admission (procedure),7
+female,78.0,Emergency room admission (procedure),6
+male,60.0,Emergency room admission (procedure),6
+male,31.0,Emergency room admission (procedure),5
+male,70.0,Emergency room admission (procedure),6
+female,86.0,Emergency room admission (procedure),5
+female,25.0,Obstetric emergency hospital admission (procedure),4
+male,46.0,Emergency room admission (procedure),5
+female,49.0,Hospital admission (procedure),6
+male,53.0,Emergency room admission (procedure),6
+male,59.0,Hospital admission (procedure),12
+male,10.0,Hospital admission (procedure),10
+male,76.0,Emergency room admission (procedure),7
+female,33.0,Emergency room admission (procedure),5
+female,85.0,Emergency room admission (procedure),5
+male,63.0,Emergency room admission (procedure),6
+female,41.0,Obstetric emergency hospital admission (procedure),3
+female,44.0,Emergency room admission (procedure),3
+female,42.0,Emergency hospital admission (procedure),4
+female,28.0,Emergency room admission (procedure),3
+female,94.0,Emergency room admission (procedure),6
+female,100.0,Emergency room admission (procedure),8
+male,58.0,Hospital admission (procedure),11
+male,58.0,Non-urgent orthopedic admission (procedure),10
+female,69.0,Emergency hospital admission (procedure),6
+female,58.0,Admission to hospice (procedure),10
+female,21.0,Obstetric emergency hospital admission (procedure),4
+male,59.0,Emergency room admission (procedure),4
+female,22.0,Obstetric emergency hospital admission (procedure),2
+female,26.0,Obstetric emergency hospital admission (procedure),2
+female,84.0,Emergency room admission (procedure),7
+female,58.0,Emergency room admission (procedure),5
+male,13.0,Emergency room admission (procedure),3
+male,67.0,Patient transfer to intensive care unit (procedure),21
+female,77.0,Emergency room admission (procedure),6
+male,81.0,Emergency room admission (procedure),6
+female,85.0,Emergency room admission (procedure),6
+male,58.0,Admission to thoracic surgery department (procedure),10
+female,85.0,Emergency room admission (procedure),7
+female,54.0,Emergency room admission (procedure),5
+male,22.0,Emergency hospital admission (procedure),3
+female,58.0,Hospital admission (procedure),10
+female,68.0,Emergency room admission (procedure),4
+male,11.0,Emergency room admission (procedure),4
+female,45.0,Emergency room admission (procedure),3
+male,43.0,Emergency room admission (procedure),4
+female,85.0,Emergency room admission (procedure),7
+female,85.0,Admission to hospice (procedure),10
+female,87.0,Emergency room admission (procedure),5
+female,8.0,Emergency room admission (procedure),1
+female,72.0,Emergency room admission (procedure),6
+female,25.0,Admission to surgical department (procedure),10
+male,17.0,Emergency room admission (procedure),3
+male,16.0,Emergency room admission (procedure),2
+female,33.0,Obstetric emergency hospital admission (procedure),4
+female,48.0,Emergency room admission (procedure),5
+female,71.0,Hospital admission for isolation (procedure),13
+female,31.0,Emergency hospital admission for asthma (procedure),4
+female,10.0,Emergency room admission (procedure),2
+male,9.0,Hospital admission (procedure),5
+female,73.0,Emergency room admission (procedure),6
+female,77.0,Emergency room admission (procedure),7
+female,85.0,Emergency room admission (procedure),7
+female,62.0,Admission to intensive care unit (procedure),11
+female,65.0,Admission to hospice (procedure),10
+male,64.0,Emergency room admission (procedure),4
+male,45.0,Emergency room admission (procedure),5
+male,70.0,Hospital admission (procedure),8
+male,14.0,Emergency room admission (procedure),4
+male,51.0,Hospital admission (procedure),11
+female,42.0,Obstetric emergency hospital admission (procedure),3
+female,75.0,Hospital admission (procedure),9
+male,63.0,Admission to intensive care unit (procedure),12
+male,77.0,Hospital admission (procedure),13
+male,67.0,Hospital admission (procedure),5
+male,24.0,Hospital admission (procedure),8
+female,44.0,Emergency room admission (procedure),3
+female,51.0,Emergency room admission (procedure),5
+male,0.0,Emergency room admission (procedure),2
+female,69.0,Emergency room admission (procedure),5
+female,84.0,Emergency room admission (procedure),5
+male,54.0,Emergency room admission (procedure),4
+male,63.0,Hospital admission (procedure),11
+male,13.0,Emergency room admission (procedure),3
+female,35.0,Admission to surgical department (procedure),8
+female,45.0,Emergency room admission (procedure),5
+female,19.0,Obstetric emergency hospital admission (procedure),2
+male,55.0,Emergency room admission (procedure),5
+male,61.0,Hospital admission (procedure),5
+female,75.0,Emergency room admission (procedure),5
+female,100.0,Emergency room admission (procedure),8
+female,30.0,Emergency room admission (procedure),2
+female,30.0,Obstetric emergency hospital admission (procedure),4
+female,0.0,Emergency room admission (procedure),3
+female,81.0,Emergency room admission (procedure),6
+male,47.0,Admission to hospice (procedure),6
+female,15.0,Emergency room admission (procedure),4
+female,16.0,Hospital admission (procedure),6
+male,51.0,Patient transfer to intensive care unit (procedure),9
+female,45.0,Admission to hospice (procedure),10
+female,68.0,Admission to ward (procedure),7
+male,55.0,Patient transfer to intensive care unit (procedure),10
+male,38.0,Emergency room admission (procedure),5
+male,75.0,Emergency room admission (procedure),6
+male,70.0,Emergency room admission (procedure),6
+male,67.0,Admission to intensive care unit (procedure),10
+male,11.0,Emergency room admission (procedure),3
+male,49.0,Emergency hospital admission (procedure),5
+female,61.0,Emergency room admission (procedure),4
+female,18.0,Obstetric emergency hospital admission (procedure),3
+male,49.0,Emergency room admission (procedure),5
+female,13.0,Emergency room admission (procedure),4
+male,28.0,Emergency room admission (procedure),4
+male,52.0,Hospital admission (procedure),5
+male,74.0,Admission to ward (procedure),8
+male,52.0,Emergency room admission (procedure),6
+female,37.0,Obstetric emergency hospital admission (procedure),4
+female,96.0,Hospital admission (procedure),13
+male,10.0,Emergency room admission (procedure),4
+female,56.0,Emergency room admission (procedure),5
+male,18.0,Emergency room admission (procedure),3
+female,23.0,Obstetric emergency hospital admission (procedure),2
+female,12.0,Hospital admission (procedure),3
+male,10.0,Emergency room admission (procedure),2
+female,19.0,Obstetric emergency hospital admission (procedure),2
+male,8.0,Emergency room admission (procedure),3
+male,67.0,Emergency room admission (procedure),4
+male,82.0,Emergency room admission (procedure),6
+male,48.0,Emergency room admission (procedure),4
+male,84.0,Emergency room admission (procedure),6
+male,57.0,Emergency room admission (procedure),4
+male,22.0,Emergency hospital admission (procedure),4
+female,33.0,Emergency room admission (procedure),5
+female,97.0,Admission to hospice (procedure),8
+female,27.0,Emergency hospital admission (procedure),4
+female,27.0,Emergency room admission (procedure),2
+male,81.0,Emergency room admission (procedure),5
+female,37.0,Emergency room admission (procedure),4
+female,44.0,Emergency room admission (procedure),4
+female,11.0,Emergency room admission (procedure),4
+female,30.0,Emergency room admission (procedure),4
+female,28.0,Emergency room admission (procedure),2
+female,75.0,Emergency room admission (procedure),7
+male,44.0,Emergency room admission (procedure),4
+male,1.0,Emergency room admission (procedure),3
+female,18.0,Obstetric emergency hospital admission (procedure),3
+male,51.0,Emergency room admission (procedure),6
+male,75.0,Emergency room admission (procedure),6
+male,30.0,Emergency room admission (procedure),4
+female,36.0,Emergency room admission (procedure),4
+female,40.0,Obstetric emergency hospital admission (procedure),5
+male,58.0,Emergency room admission (procedure),5
+male,54.0,Emergency room admission (procedure),4
+male,47.0,Emergency hospital admission (procedure),5
+female,25.0,Obstetric emergency hospital admission (procedure),4
+female,77.0,Hospital admission (procedure),8
+male,62.0,Emergency room admission (procedure),4
+male,76.0,Emergency room admission (procedure),7
+female,20.0,Emergency room admission (procedure),4
+male,10.0,Emergency room admission (procedure),2
+male,75.0,Hospital admission (procedure),8
+male,91.0,Hospital admission (procedure),7
+male,65.0,Admission to surgical transplant department (procedure),8
+female,27.0,Emergency room admission (procedure),4
+male,83.0,Emergency room admission (procedure),7
+female,40.0,Emergency room admission (procedure),5
+male,67.0,Patient transfer to intensive care unit (procedure),22
+male,49.0,Emergency room admission (procedure),5
+female,35.0,Obstetric emergency hospital admission (procedure),3
+female,39.0,Emergency room admission (procedure),5
+male,15.0,Hospital admission (procedure),8
+female,25.0,Obstetric emergency hospital admission (procedure),2
+male,35.0,Emergency room admission (procedure),4
+male,59.0,Emergency room admission (procedure),6
+female,23.0,Obstetric emergency hospital admission (procedure),4
+female,39.0,Emergency room admission (procedure),4
+male,83.0,Emergency room admission (procedure),6
+female,24.0,Emergency room admission (procedure),4
+male,95.0,Emergency room admission (procedure),6
+male,5.0,Emergency room admission (procedure),1
+male,51.0,Emergency room admission (procedure),5
+male,55.0,Emergency room admission (procedure),6
+female,44.0,Emergency room admission (procedure),4
+female,68.0,Emergency room admission (procedure),5
+female,22.0,Emergency hospital admission for asthma (procedure),2
+female,79.0,Emergency room admission (procedure),6
+female,86.0,Emergency room admission (procedure),6
+male,65.0,Admission to hospice (procedure),12
+female,84.0,Emergency room admission (procedure),6
+female,93.0,Emergency room admission (procedure),8
+male,80.0,Admission to surgical transplant department (procedure),12
+male,25.0,Emergency room admission (procedure),2
+male,66.0,Emergency room admission (procedure),5
+male,61.0,Emergency room admission (procedure),5
+male,46.0,Emergency hospital admission (procedure),4
+female,26.0,Emergency room admission (procedure),2
+female,32.0,Obstetric emergency hospital admission (procedure),4
+male,81.0,Emergency room admission (procedure),5
+female,79.0,Emergency room admission (procedure),5
+female,76.0,Emergency room admission (procedure),5
+female,100.0,Emergency room admission (procedure),7
+female,23.0,Obstetric emergency hospital admission (procedure),3
+male,58.0,Emergency room admission (procedure),5
+female,43.0,Emergency room admission (procedure),5
+female,35.0,Admission to surgical department (procedure),8
+male,18.0,Admission to hospice (procedure),3
+female,85.0,Emergency room admission (procedure),5
+male,42.0,Emergency room admission (procedure),5
+male,42.0,Emergency room admission (procedure),3
+female,55.0,Emergency room admission (procedure),4
+female,24.0,Obstetric emergency hospital admission (procedure),3
+female,56.0,Emergency room admission (procedure),5
+female,35.0,Admission to surgical department (procedure),4
+female,16.0,Emergency room admission (procedure),3
+male,38.0,Emergency room admission (procedure),5
+male,35.0,Emergency room admission (procedure),5
+female,27.0,Emergency room admission (procedure),2
+male,33.0,Emergency room admission (procedure),4
+female,56.0,Emergency room admission (procedure),5
+female,14.0,Emergency room admission (procedure),3
+male,66.0,Emergency room admission (procedure),5
+female,87.0,Emergency room admission (procedure),6
+male,49.0,Emergency room admission (procedure),4
+female,79.0,Emergency room admission (procedure),6
+female,8.0,Emergency room admission (procedure),1
+female,4.0,Emergency room admission (procedure),2
+male,64.0,Emergency room admission (procedure),4
+female,65.0,Hospital admission (procedure),12
+male,75.0,Emergency room admission (procedure),7
+male,102.0,Emergency room admission (procedure),6
+female,51.0,Emergency room admission (procedure),6
+male,9.0,Emergency room admission (procedure),1
+male,82.0,Admission to hospice (procedure),7
+female,70.0,Emergency room admission (procedure),6
+female,22.0,Emergency hospital admission for asthma (procedure),2
+female,75.0,Emergency room admission (procedure),7
+male,52.0,Admission to hospice (procedure),8
+female,42.0,Emergency room admission (procedure),5
+female,35.0,Admission to surgical department (procedure),8
+female,39.0,Hospital admission (procedure),5
+female,85.0,Emergency room admission (procedure),6
+female,36.0,Admission to surgical department (procedure),8
+female,16.0,Emergency room admission (procedure),4
+female,35.0,Admission to surgical department (procedure),4
+female,59.0,Admission to surgical transplant department (procedure),8
+female,35.0,Emergency room admission (procedure),3
+female,32.0,Emergency room admission (procedure),4
+female,84.0,Emergency room admission (procedure),5
+male,14.0,Emergency room admission (procedure),2
+male,66.0,Emergency room admission (procedure),6
+female,46.0,Obstetric emergency hospital admission (procedure),3
+female,9.0,Emergency room admission (procedure),3
+female,55.0,Hospital admission (procedure),9
+male,62.0,Hospital admission (procedure),5
+male,2.0,Emergency room admission (procedure),3
+male,67.0,Patient transfer to intensive care unit (procedure),12
+male,54.0,Emergency room admission (procedure),4
+male,16.0,Emergency room admission (procedure),2
+female,39.0,Emergency room admission (procedure),5
+male,51.0,Emergency room admission (procedure),4
+male,67.0,Emergency room admission (procedure),6
+male,33.0,Emergency room admission (procedure),3
+female,50.0,Admission to surgical department (procedure),8
+male,40.0,Emergency room admission (procedure),4
+male,22.0,Emergency room admission (procedure),3
+male,30.0,Emergency room admission (procedure),4
+male,53.0,Admission to intensive care unit (procedure),16
+female,35.0,Admission to surgical department (procedure),6
+male,76.0,Hospital admission (procedure),6
+male,43.0,Emergency room admission (procedure),4
+female,79.0,Emergency room admission (procedure),6
+male,65.0,Hospital admission (procedure),7
+male,50.0,Emergency room admission (procedure),4
+male,58.0,Emergency room admission (procedure),5
+female,65.0,Admission to hospice (procedure),11
+female,76.0,Emergency room admission (procedure),7
+male,75.0,Admission to hospice (procedure),6
+female,36.0,Obstetric emergency hospital admission (procedure),4
+female,44.0,Emergency room admission (procedure),3
+male,42.0,Hospital admission (procedure),8
+female,35.0,Obstetric emergency hospital admission (procedure),4
+female,77.0,Emergency room admission (procedure),5
+female,65.0,Hospital admission (procedure),12
+female,20.0,Hospital admission (procedure),6
+male,58.0,Hospital admission (procedure),6
+male,65.0,Hospital admission (procedure),12
+female,29.0,Emergency hospital admission for asthma (procedure),4
+female,29.0,Obstetric emergency hospital admission (procedure),2
+female,40.0,Hospital admission (procedure),6
+female,26.0,Obstetric emergency hospital admission (procedure),4
+male,0.0,Emergency room admission (procedure),3
+male,35.0,Emergency room admission (procedure),5
+male,66.0,Emergency room admission (procedure),5
+male,74.0,Emergency room admission (procedure),5
+female,35.0,Emergency room admission (procedure),4
+male,56.0,Emergency room admission (procedure),4
+female,77.0,Admission to hospice (procedure),8
+male,49.0,Emergency room admission (procedure),4
+male,74.0,Emergency room admission (procedure),5
+male,28.0,Emergency room admission (procedure),3
+female,30.0,Obstetric emergency hospital admission (procedure),4
+male,59.0,Emergency room admission (procedure),4
+male,57.0,Emergency room admission (procedure),4
+male,2.0,Emergency room admission (procedure),1
+female,35.0,Admission to surgical department (procedure),10
+female,45.0,Emergency room admission (procedure),5
+female,69.0,Admission to hospice (procedure),11
+male,45.0,Emergency room admission (procedure),3
+female,78.0,Emergency hospital admission (procedure),7
+female,41.0,Obstetric emergency hospital admission (procedure),3
+male,76.0,Emergency room admission (procedure),6
+male,85.0,Admission to hospice (procedure),13
+female,62.0,Emergency room admission (procedure),4
+male,81.0,Emergency room admission (procedure),6
+male,68.0,Hospital admission (procedure),12
+male,81.0,Emergency room admission (procedure),6
+male,85.0,Admission to hospice (procedure),7
+female,34.0,Obstetric emergency hospital admission (procedure),4
+female,62.0,Emergency hospital admission for asthma (procedure),5
+male,39.0,Emergency room admission (procedure),5
+male,53.0,Admission to hospice (procedure),9
+male,33.0,Emergency room admission (procedure),3
+female,45.0,Emergency room admission (procedure),3
+male,75.0,Admission to hospice (procedure),11
+female,13.0,Emergency room admission (procedure),2
+male,32.0,Emergency room admission (procedure),5
+male,54.0,Emergency room admission (procedure),4
+male,56.0,Emergency room admission (procedure),5
+female,85.0,Emergency room admission (procedure),7
+male,81.0,Emergency room admission (procedure),6
+male,65.0,Admission to hospice (procedure),6
+female,85.0,Emergency room admission (procedure),5
+female,46.0,Emergency room admission (procedure),4
+female,11.0,Emergency room admission (procedure),3
+female,49.0,Emergency room admission (procedure),3
+male,58.0,Emergency room admission (procedure),4
+female,33.0,Emergency room admission (procedure),3
+male,34.0,Emergency room admission (procedure),4
+female,44.0,Hospital admission (procedure),4
+male,44.0,Emergency room admission (procedure),3
+female,79.0,Emergency hospital admission (procedure),6
+female,69.0,Hospital admission (procedure),11
+female,38.0,Obstetric emergency hospital admission (procedure),3
+female,92.0,Emergency room admission (procedure),7
+female,84.0,Emergency room admission (procedure),7
+female,50.0,Emergency room admission (procedure),4
+male,39.0,Emergency room admission (procedure),3
+female,29.0,Obstetric emergency hospital admission (procedure),4
+female,30.0,Emergency room admission (procedure),2
+male,44.0,Emergency room admission (procedure),3
+female,35.0,Admission to surgical department (procedure),9
+male,45.0,Emergency room admission (procedure),4
+female,29.0,Emergency hospital admission for asthma (procedure),3
+female,14.0,Emergency room admission (procedure),3
+female,6.0,Emergency room admission (procedure),3
+female,76.0,Hospital admission for isolation (procedure),6
+male,15.0,Emergency room admission (procedure),2
+female,29.0,Emergency room admission (procedure),4
+male,96.0,Emergency room admission (procedure),6
+male,1.0,Emergency room admission (procedure),3
+male,51.0,Admission to ward (procedure),11
+male,65.0,Admission to hospice (procedure),5
+male,7.0,Emergency room admission (procedure),3
+female,30.0,Obstetric emergency hospital admission (procedure),2
+female,14.0,Admission to hospice (procedure),8
+female,43.0,Obstetric emergency hospital admission (procedure),5
+female,70.0,Non-urgent orthopedic admission (procedure),8
+male,75.0,Emergency room admission (procedure),5
+female,51.0,Admission to hospice (procedure),11
+male,25.0,Emergency room admission (procedure),4
+female,32.0,Obstetric emergency hospital admission (procedure),4
+female,19.0,Obstetric emergency hospital admission (procedure),4
+female,75.0,Emergency room admission (procedure),6
+female,85.0,Emergency room admission (procedure),5
+female,62.0,Emergency room admission (procedure),4
+male,50.0,Emergency room admission (procedure),4
+male,51.0,Admission to surgical transplant department (procedure),11
+female,26.0,Obstetric emergency hospital admission (procedure),2
+male,45.0,Emergency room admission (procedure),3
+male,47.0,Emergency room admission (procedure),5
+male,63.0,Emergency room admission (procedure),4
+male,14.0,Emergency room admission (procedure),4
+male,52.0,Admission to hospice (procedure),8
+male,59.0,Emergency room admission (procedure),6
+female,35.0,Emergency room admission (procedure),3
+female,67.0,Emergency room admission (procedure),4
+female,25.0,Admission to surgical department (procedure),3
+female,66.0,Emergency room admission (procedure),5
+female,29.0,Emergency room admission (procedure),4
+male,25.0,Emergency room admission (procedure),4
+male,68.0,Emergency room admission (procedure),5
+female,13.0,Emergency room admission (procedure),4
+male,28.0,Emergency hospital admission for asthma (procedure),4
+female,21.0,Emergency room admission (procedure),3
+male,65.0,Hospital admission (procedure),7
+female,56.0,Emergency room admission (procedure),4
+female,62.0,Admission to surgical transplant department (procedure),11
+male,1.0,Emergency room admission (procedure),2
+female,44.0,Admission to surgical department (procedure),4
+female,77.0,Emergency room admission (procedure),5
+male,49.0,Hospital admission (procedure),9
+male,17.0,Emergency room admission (procedure),3
+female,3.0,Hospital admission (procedure),6
+female,78.0,Admission to ward (procedure),9
+female,37.0,Emergency room admission (procedure),4
+male,75.0,Emergency room admission (procedure),6
+male,58.0,Emergency room admission (procedure),4
+female,87.0,Emergency room admission (procedure),6
+male,15.0,Emergency room admission (procedure),2
+female,21.0,Emergency room admission (procedure),4
+male,65.0,Admission to ward (procedure),12
+male,60.0,Emergency room admission (procedure),6
+female,43.0,Obstetric emergency hospital admission (procedure),3
+male,75.0,Emergency room admission (procedure),5
+female,59.0,Emergency room admission (procedure),6
+female,58.0,Emergency room admission (procedure),4
+male,3.0,Emergency room admission (procedure),1
+male,102.0,Emergency room admission (procedure),8
+male,29.0,Emergency room admission (procedure),3
+female,87.0,Admission to hospice (procedure),13
+female,29.0,Obstetric emergency hospital admission (procedure),4
+female,45.0,Emergency room admission (procedure),3
+male,56.0,Emergency room admission (procedure),6
+female,102.0,Emergency room admission (procedure),7
+male,57.0,Emergency room admission (procedure),4
+male,81.0,Emergency room admission (procedure),6
+female,65.0,Admission to hospice (procedure),7
+female,86.0,Emergency room admission (procedure),7
+female,69.0,Patient transfer to intensive care unit (procedure),15
+female,79.0,Emergency room admission (procedure),6
+male,45.0,Emergency room admission (procedure),5
+female,20.0,Obstetric emergency hospital admission (procedure),2
+female,85.0,Admission to hospice (procedure),6
+male,64.0,Hospital admission (procedure),8
+female,47.0,Emergency room admission (procedure),3
+female,33.0,Emergency room admission (procedure),4
+female,20.0,Obstetric emergency hospital admission (procedure),4
+female,52.0,Emergency room admission (procedure),5
+male,59.0,Emergency room admission (procedure),4
+female,3.0,Emergency room admission (procedure),3
+female,20.0,Emergency room admission (procedure),2
+female,35.0,Admission to surgical department (procedure),4
+female,28.0,Obstetric emergency hospital admission (procedure),3
+male,54.0,Emergency room admission (procedure),5
+male,5.0,Emergency room admission (procedure),1
+female,12.0,Emergency room admission (procedure),4
+male,65.0,Emergency hospital admission (procedure),4
+male,30.0,Emergency room admission (procedure),4
+male,85.0,Admission to hospice (procedure),10
+male,52.0,Emergency room admission (procedure),5
+female,23.0,Obstetric emergency hospital admission (procedure),2
+female,84.0,Emergency room admission (procedure),7
+female,100.0,Emergency room admission (procedure),6
+female,49.0,Hospital admission (procedure),6
+female,68.0,Hospital admission (procedure),5
+female,84.0,Emergency room admission (procedure),7
+male,7.0,Non-urgent orthopedic admission (procedure),6
+female,69.0,Admission to intensive care unit (procedure),10
+female,4.0,Emergency room admission (procedure),1
+male,48.0,Emergency room admission (procedure),5
+female,76.0,Emergency room admission (procedure),5
+female,20.0,Obstetric emergency hospital admission (procedure),3
+female,45.0,Obstetric emergency hospital admission (procedure),4
+female,66.0,Emergency room admission (procedure),6
+male,47.0,Emergency room admission (procedure),4
+male,68.0,Hospital admission (procedure),7
+male,49.0,Emergency room admission (procedure),4
+male,84.0,Emergency room admission (procedure),6
+female,24.0,Emergency room admission (procedure),3
+female,85.0,Emergency room admission (procedure),7
+male,4.0,Emergency room admission (procedure),3
+female,11.0,Emergency room admission (procedure),4
+female,54.0,Emergency room admission (procedure),6
+male,59.0,Hospital admission (procedure),9
+female,33.0,Obstetric emergency hospital admission (procedure),4
+male,56.0,Emergency room admission (procedure),5
+male,51.0,Emergency room admission (procedure),6
+female,25.0,Admission to surgical department (procedure),4
+female,35.0,Obstetric emergency hospital admission (procedure),4
+male,31.0,Emergency room admission (procedure),3
+female,58.0,Non-urgent orthopedic admission (procedure),6
+female,39.0,Emergency room admission (procedure),3
+female,41.0,Hospital admission (procedure),9
+female,85.0,Emergency room admission (procedure),5
+male,65.0,Admission to hospice (procedure),12
+female,85.0,Emergency room admission (procedure),6
+male,6.0,Emergency room admission (procedure),3
+male,67.0,Emergency room admission (procedure),4
+male,68.0,Hospital admission (procedure),5
+female,79.0,Emergency room admission (procedure),7
+male,47.0,Admission to ward (procedure),9
+male,52.0,Emergency hospital admission for asthma (procedure),6
+male,0.0,Emergency room admission (procedure),1
+male,73.0,Emergency room admission (procedure),5
+female,18.0,Obstetric emergency hospital admission (procedure),3
+male,46.0,Emergency room admission (procedure),3
+male,100.0,Emergency room admission (procedure),8
+male,48.0,Hospital admission (procedure),10
+female,0.0,Emergency room admission (procedure),3
+female,61.0,Emergency room admission (procedure),4
+male,25.0,Emergency room admission (procedure),3
+male,52.0,Hospital admission (procedure),11
+female,39.0,Obstetric emergency hospital admission (procedure),5
+female,35.0,Obstetric emergency hospital admission (procedure),5
+male,44.0,Hospital admission (procedure),11
+female,13.0,Emergency room admission (procedure),4
+male,12.0,Emergency room admission (procedure),2
+female,25.0,Hospital admission (procedure),6
+female,39.0,Emergency room admission (procedure),3
+male,15.0,Emergency hospital admission (procedure),2
+male,72.0,Admission to hospice (procedure),6
+female,35.0,Obstetric emergency hospital admission (procedure),4
+female,5.0,Emergency room admission (procedure),3
+female,64.0,Emergency room admission (procedure),6
+female,62.0,Emergency room admission (procedure),6
+male,40.0,Emergency room admission (procedure),4
+female,24.0,Obstetric emergency hospital admission (procedure),4
+male,42.0,Emergency room admission (procedure),3
+female,31.0,Obstetric emergency hospital admission (procedure),5
+female,53.0,Patient transfer to intensive care unit (procedure),22
+male,59.0,Emergency room admission (procedure),6
+male,13.0,Emergency room admission (procedure),2
+male,60.0,Emergency room admission (procedure),6
+male,51.0,Emergency room admission (procedure),6
+female,19.0,Obstetric emergency hospital admission (procedure),2
+male,42.0,Emergency room admission (procedure),5
+female,26.0,Obstetric emergency hospital admission (procedure),3
+male,32.0,Emergency room admission (procedure),3
+male,40.0,Emergency room admission (procedure),5
+female,35.0,Obstetric emergency hospital admission (procedure),5
+female,14.0,Emergency room admission (procedure),3
+male,16.0,Emergency room admission (procedure),2
+female,31.0,Obstetric emergency hospital admission (procedure),5
+male,45.0,Emergency room admission (procedure),3
+female,65.0,Hospital admission (procedure),10
+female,75.0,Admission to hospice (procedure),7
+male,45.0,Emergency room admission (procedure),5
+female,52.0,Emergency room admission (procedure),6
+female,47.0,Emergency room admission (procedure),5
+female,50.0,Emergency room admission (procedure),6
+female,34.0,Admission to intensive care unit (procedure),8
+female,69.0,Hospital admission for isolation (procedure),11
+female,13.0,Emergency room admission (procedure),3
+female,35.0,Admission to surgical department (procedure),10
+male,65.0,Admission to hospice (procedure),6
+female,62.0,Emergency room admission (procedure),4
+female,100.0,Emergency room admission (procedure),7
+male,57.0,Admission to surgical transplant department (procedure),5
+male,47.0,Emergency room admission (procedure),3
+female,28.0,Obstetric emergency hospital admission (procedure),4
+female,35.0,Admission to surgical department (procedure),6
+female,34.0,Emergency room admission (procedure),3
+female,72.0,Admission to ward (procedure),7
+male,9.0,Emergency room admission (procedure),1
+female,33.0,Obstetric emergency hospital admission (procedure),3
+female,45.0,Emergency room admission (procedure),3
+male,51.0,Admission to ward (procedure),7
+female,1.0,Emergency room admission (procedure),2
+male,34.0,Emergency hospital admission (procedure),3
+male,26.0,Emergency room admission (procedure),4
+female,85.0,Emergency room admission (procedure),7
+female,66.0,Emergency room admission (procedure),4
+female,19.0,Obstetric emergency hospital admission (procedure),2
+male,34.0,Emergency room admission (procedure),3
+male,49.0,Emergency room admission (procedure),3
+female,45.0,Emergency room admission (procedure),5
+female,25.0,Admission to surgical department (procedure),7
+female,45.0,Obstetric emergency hospital admission (procedure),3
+male,35.0,Emergency room admission (procedure),3
+male,62.0,Emergency room admission (procedure),4
+female,62.0,Emergency room admission (procedure),6
+female,96.0,Emergency room admission (procedure),7
+male,75.0,Emergency room admission (procedure),7
+female,84.0,Emergency room admission (procedure),6
+male,79.0,Emergency room admission (procedure),7
+female,45.0,Emergency room admission (procedure),3
+male,64.0,Emergency room admission (procedure),5
+female,35.0,Admission to surgical department (procedure),4
+male,60.0,Admission to ward (procedure),11
+male,24.0,Emergency room admission (procedure),3
+female,73.0,Emergency room admission (procedure),7
+male,68.0,Hospital admission (procedure),6
+male,63.0,Hospital admission (procedure),9
+male,46.0,Hospital admission (procedure),9
+female,78.0,Hospital admission (procedure),6
+male,57.0,Emergency room admission (procedure),6
+female,48.0,Emergency room admission (procedure),4
+female,31.0,Emergency hospital admission for asthma (procedure),3
+female,6.0,Non-urgent orthopedic admission (procedure),3
+female,64.0,Emergency room admission (procedure),4
+male,72.0,Emergency room admission (procedure),7
+female,70.0,Hospital admission (procedure),12
+female,85.0,Emergency room admission (procedure),5
+female,15.0,Emergency room admission (procedure),4
+female,23.0,Obstetric emergency hospital admission (procedure),3
+female,41.0,Emergency room admission (procedure),5
+female,85.0,Emergency room admission (procedure),6
+male,56.0,Emergency room admission (procedure),6
+male,39.0,Emergency hospital admission (procedure),5
+female,67.0,Emergency room admission (procedure),4
+male,40.0,Emergency room admission (procedure),3
+male,51.0,Non-urgent orthopedic admission (procedure),9
+female,16.0,Emergency room admission (procedure),4
+male,56.0,Emergency room admission (procedure),5
+female,32.0,Obstetric emergency hospital admission (procedure),4
+female,31.0,Hospital admission (procedure),6
+male,54.0,Hospital admission (procedure),7
+female,100.0,Hospital admission (procedure),12
+male,102.0,Emergency room admission (procedure),6
+female,75.0,Admission to hospice (procedure),13
+male,15.0,Emergency room admission (procedure),4
+female,75.0,Hospital admission (procedure),9
+female,25.0,Admission to surgical department (procedure),8
+female,30.0,Emergency room admission (procedure),4
+female,49.0,Admission to thoracic surgery department (procedure),8
+male,67.0,Emergency room admission (procedure),4
+female,8.0,Emergency room admission (procedure),2
+male,65.0,Admission to hospice (procedure),8
+female,49.0,Admission to intensive care unit (procedure),15
+female,28.0,Obstetric emergency hospital admission (procedure),3
+male,60.0,Emergency room admission (procedure),6
+female,84.0,Emergency room admission (procedure),6
+male,25.0,Emergency room admission (procedure),4
+male,3.0,Emergency room admission (procedure),3
+male,14.0,Emergency hospital admission (procedure),2
+female,27.0,Obstetric emergency hospital admission (procedure),3
+female,25.0,Obstetric emergency hospital admission (procedure),2
+female,25.0,Admission to surgical department (procedure),7
+female,70.0,Admission to ward (procedure),12
+male,45.0,Emergency room admission (procedure),4
+male,62.0,Emergency room admission (procedure),6
+female,60.0,Emergency room admission (procedure),4
+female,30.0,Obstetric emergency hospital admission (procedure),2
+male,43.0,Emergency room admission (procedure),3
+female,28.0,Obstetric emergency hospital admission (procedure),2
+male,56.0,Emergency room admission (procedure),4
+male,72.0,Emergency room admission (procedure),6
+female,59.0,Emergency room admission (procedure),6
+male,63.0,Emergency room admission (procedure),4
+female,30.0,Obstetric emergency hospital admission (procedure),4
+male,56.0,Emergency room admission (procedure),5
+female,37.0,Emergency room admission (procedure),5
+male,66.0,Emergency room admission (procedure),4
+male,54.0,Emergency room admission (procedure),4
+female,37.0,Emergency room admission (procedure),3
+male,65.0,Admission to ward (procedure),10
+male,64.0,Emergency room admission (procedure),6
+female,24.0,Obstetric emergency hospital admission (procedure),3
+male,65.0,Admission to hospice (procedure),5
+male,78.0,Patient transfer to intensive care unit (procedure),14
+female,15.0,Hospital admission (procedure),5
+female,17.0,Emergency room admission (procedure),2
+female,50.0,Emergency room admission (procedure),6
+female,14.0,Emergency hospital admission (procedure),4
+male,11.0,Emergency room admission (procedure),3
+male,70.0,Emergency room admission (procedure),4
+male,74.0,Emergency room admission (procedure),6
+male,55.0,Admission to ward (procedure),7
+female,26.0,Emergency room admission (procedure),4
+male,12.0,Emergency room admission (procedure),2
+male,66.0,Emergency room admission (procedure),4
+male,65.0,Emergency room admission (procedure),6
+female,53.0,Emergency room admission (procedure),4
+male,81.0,Emergency room admission (procedure),7
+male,43.0,Emergency room admission (procedure),3
+male,16.0,Emergency room admission (procedure),3
+female,35.0,Admission to surgical department (procedure),7
+male,21.0,Emergency room admission (procedure),2
+female,25.0,Admission to surgical department (procedure),6
+male,22.0,Emergency room admission (procedure),2
+female,16.0,Emergency room admission (procedure),3
+male,67.0,Emergency room admission (procedure),5
+female,68.0,Hospital admission (procedure),11
+female,50.0,Emergency room admission (procedure),4
+male,81.0,Emergency room admission (procedure),5
+female,56.0,Emergency room admission (procedure),6
+male,60.0,Emergency room admission (procedure),4
+male,27.0,Admission to hospice (procedure),5
+female,54.0,Hospital admission (procedure),12
+female,36.0,Obstetric emergency hospital admission (procedure),5
+male,23.0,Emergency hospital admission for asthma (procedure),2
+male,44.0,Emergency room admission (procedure),4
+female,33.0,Emergency room admission (procedure),4
+female,6.0,Hospital admission (procedure),4
+male,67.0,Emergency room admission (procedure),5
+female,31.0,Emergency room admission (procedure),5
+female,52.0,Emergency room admission (procedure),5
+female,60.0,Emergency room admission (procedure),4
+female,65.0,Hospital admission (procedure),12
+male,74.0,Emergency room admission (procedure),7
+male,72.0,Emergency room admission (procedure),6
+male,14.0,Emergency room admission (procedure),2
+female,86.0,Emergency room admission (procedure),6
+male,75.0,Emergency room admission (procedure),7
+female,85.0,Emergency room admission (procedure),6
+male,70.0,Emergency room admission (procedure),4
+male,75.0,Emergency room admission (procedure),5
+female,78.0,Emergency room admission (procedure),5
+female,103.0,Emergency room admission (procedure),6
+female,35.0,Admission to surgical department (procedure),4
+female,30.0,Emergency room admission (procedure),2
+male,94.0,Emergency room admission (procedure),7
+male,105.0,Emergency room admission (procedure),7
+female,34.0,Obstetric emergency hospital admission (procedure),3
